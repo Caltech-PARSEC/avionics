@@ -1,5 +1,0 @@
-main.c:71:5:updatePressure	80	static
-main.c:90:6:sendCANmsg	32	static
-main.c:105:5:main	48	static
-main.c:189:6:SystemClock_Config	88	static
-main.c:259:6:_Error_Handler	16	static
