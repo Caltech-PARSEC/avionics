@@ -1,0 +1,15 @@
+Added Component: Designator=D3(0805LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "OSRAM Opto Semiconductors Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LS T676-Q1R2-1-Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel"; Value = "D13"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D3-K
+Added Pin To Net: NetName=3V3_DVDD Pin=R7-2
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=NetD3_A Pin=R7-1
+Added Net: Name=NetD3_A
+Added Member To Class: ClassName=PWR Member=Component D3 LED
+Added Member To Class: ClassName=PWR Member=Component R7 2k

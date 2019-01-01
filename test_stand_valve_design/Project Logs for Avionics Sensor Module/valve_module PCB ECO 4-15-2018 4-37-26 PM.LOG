@@ -1,0 +1,10 @@
+Change Component Comment : Designator=U3_VD1 Old Comment=L298P013TR New Comment=
+Change Component Comment : Designator=U3_VD2 Old Comment=L298P013TR New Comment=
+Change Component Comment : Designator=U3_VD3 Old Comment=L298P013TR New Comment=
+Change Component Comment : Designator=U3_VD4 Old Comment=L298P013TR New Comment=
+Change Component Comment : Designator=U3_VD5 Old Comment=L298P013TR New Comment=
+Added Pin To Net: NetName=GND Pin=U3_VD1-EPAD
+Added Pin To Net: NetName=GND Pin=U3_VD2-EPAD
+Added Pin To Net: NetName=GND Pin=U3_VD3-EPAD
+Added Pin To Net: NetName=GND Pin=U3_VD4-EPAD
+Added Pin To Net: NetName=GND Pin=U3_VD5-EPAD

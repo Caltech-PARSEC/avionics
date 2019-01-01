@@ -1,0 +1,130 @@
+Added Component: Designator=D1_VD1(DIODE-SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMCJ120CABTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D1_VD2(DIODE-SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMCJ120CABTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D1_VD3(DIODE-SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMCJ120CABTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D1_VD4(DIODE-SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMCJ120CABTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D1_VD5(DIODE-SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMCJ120CABTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D2_VD1(DIODE-SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMCJ120CABTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D2_VD2(DIODE-SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMCJ120CABTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D2_VD3(DIODE-SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMCJ120CABTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D2_VD4(DIODE-SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMCJ120CABTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D2_VD5(DIODE-SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMCJ120CABTR-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_VD1_A Pin=D1_VD1-A
+Added Pin To Net: NetName=NetD1_VD1_A Pin=P4_VD1-1
+Added Pin To Net: NetName=NetD1_VD1_A Pin=U3_VD1-4
+Added Net: Name=NetD1_VD1_A
+Added Pin To Net: NetName=NetD1_VD1_K Pin=D1_VD1-K
+Added Pin To Net: NetName=NetD1_VD1_K Pin=P4_VD1-2
+Added Pin To Net: NetName=NetD1_VD1_K Pin=U3_VD1-5
+Added Net: Name=NetD1_VD1_K
+Added Pin To Net: NetName=NetD1_VD2_A Pin=D1_VD2-A
+Added Pin To Net: NetName=NetD1_VD2_A Pin=P4_VD2-1
+Added Pin To Net: NetName=NetD1_VD2_A Pin=U3_VD2-4
+Added Net: Name=NetD1_VD2_A
+Added Pin To Net: NetName=NetD1_VD2_K Pin=D1_VD2-K
+Added Pin To Net: NetName=NetD1_VD2_K Pin=P4_VD2-2
+Added Pin To Net: NetName=NetD1_VD2_K Pin=U3_VD2-5
+Added Net: Name=NetD1_VD2_K
+Added Pin To Net: NetName=NetD1_VD3_A Pin=D1_VD3-A
+Added Pin To Net: NetName=NetD1_VD3_A Pin=P4_VD3-1
+Added Pin To Net: NetName=NetD1_VD3_A Pin=U3_VD3-4
+Added Net: Name=NetD1_VD3_A
+Added Pin To Net: NetName=NetD1_VD3_K Pin=D1_VD3-K
+Added Pin To Net: NetName=NetD1_VD3_K Pin=P4_VD3-2
+Added Pin To Net: NetName=NetD1_VD3_K Pin=U3_VD3-5
+Added Net: Name=NetD1_VD3_K
+Added Pin To Net: NetName=NetD1_VD4_A Pin=D1_VD4-A
+Added Pin To Net: NetName=NetD1_VD4_A Pin=P4_VD4-1
+Added Pin To Net: NetName=NetD1_VD4_A Pin=U3_VD4-4
+Added Net: Name=NetD1_VD4_A
+Added Pin To Net: NetName=NetD1_VD4_K Pin=D1_VD4-K
+Added Pin To Net: NetName=NetD1_VD4_K Pin=P4_VD4-2
+Added Pin To Net: NetName=NetD1_VD4_K Pin=U3_VD4-5
+Added Net: Name=NetD1_VD4_K
+Added Pin To Net: NetName=NetD1_VD5_A Pin=D1_VD5-A
+Added Pin To Net: NetName=NetD1_VD5_A Pin=P4_VD5-1
+Added Pin To Net: NetName=NetD1_VD5_A Pin=U3_VD5-4
+Added Net: Name=NetD1_VD5_A
+Added Pin To Net: NetName=NetD1_VD5_K Pin=D1_VD5-K
+Added Pin To Net: NetName=NetD1_VD5_K Pin=P4_VD5-2
+Added Pin To Net: NetName=NetD1_VD5_K Pin=U3_VD5-5
+Added Net: Name=NetD1_VD5_K
+Added Pin To Net: NetName=NetD2_VD1_A Pin=D2_VD1-A
+Added Pin To Net: NetName=NetD2_VD1_A Pin=P5_VD1-1
+Added Pin To Net: NetName=NetD2_VD1_A Pin=U3_VD1-16
+Added Net: Name=NetD2_VD1_A
+Added Pin To Net: NetName=NetD2_VD1_K Pin=D2_VD1-K
+Added Pin To Net: NetName=NetD2_VD1_K Pin=P5_VD1-2
+Added Pin To Net: NetName=NetD2_VD1_K Pin=U3_VD1-17
+Added Net: Name=NetD2_VD1_K
+Added Pin To Net: NetName=NetD2_VD2_A Pin=D2_VD2-A
+Added Pin To Net: NetName=NetD2_VD2_A Pin=P5_VD2-1
+Added Pin To Net: NetName=NetD2_VD2_A Pin=U3_VD2-16
+Added Net: Name=NetD2_VD2_A
+Added Pin To Net: NetName=NetD2_VD2_K Pin=D2_VD2-K
+Added Pin To Net: NetName=NetD2_VD2_K Pin=P5_VD2-2
+Added Pin To Net: NetName=NetD2_VD2_K Pin=U3_VD2-17
+Added Net: Name=NetD2_VD2_K
+Added Pin To Net: NetName=NetD2_VD3_A Pin=D2_VD3-A
+Added Pin To Net: NetName=NetD2_VD3_A Pin=P5_VD3-1
+Added Pin To Net: NetName=NetD2_VD3_A Pin=U3_VD3-16
+Added Net: Name=NetD2_VD3_A
+Added Pin To Net: NetName=NetD2_VD3_K Pin=D2_VD3-K
+Added Pin To Net: NetName=NetD2_VD3_K Pin=P5_VD3-2
+Added Pin To Net: NetName=NetD2_VD3_K Pin=U3_VD3-17
+Added Net: Name=NetD2_VD3_K
+Added Pin To Net: NetName=NetD2_VD4_A Pin=D2_VD4-A
+Added Pin To Net: NetName=NetD2_VD4_A Pin=P5_VD4-1
+Added Pin To Net: NetName=NetD2_VD4_A Pin=U3_VD4-16
+Added Net: Name=NetD2_VD4_A
+Added Pin To Net: NetName=NetD2_VD4_K Pin=D2_VD4-K
+Added Pin To Net: NetName=NetD2_VD4_K Pin=P5_VD4-2
+Added Pin To Net: NetName=NetD2_VD4_K Pin=U3_VD4-17
+Added Net: Name=NetD2_VD4_K
+Added Pin To Net: NetName=NetD2_VD5_A Pin=D2_VD5-A
+Added Pin To Net: NetName=NetD2_VD5_A Pin=P5_VD5-1
+Added Pin To Net: NetName=NetD2_VD5_A Pin=U3_VD5-16
+Added Net: Name=NetD2_VD5_A
+Added Pin To Net: NetName=NetD2_VD5_K Pin=D2_VD5-K
+Added Pin To Net: NetName=NetD2_VD5_K Pin=P5_VD5-2
+Added Pin To Net: NetName=NetD2_VD5_K Pin=U3_VD5-17
+Added Net: Name=NetD2_VD5_K
+Added Member To Class: ClassName=VD1 Member=Component D1_VD1 (D1) 824501141
+Added Member To Class: ClassName=VD2 Member=Component D1_VD2 (D1) 824501141
+Added Member To Class: ClassName=VD3 Member=Component D1_VD3 (D1) 824501141
+Added Member To Class: ClassName=VD4 Member=Component D1_VD4 (D1) 824501141
+Added Member To Class: ClassName=VD5 Member=Component D1_VD5 (D1) 824501141
+Added Member To Class: ClassName=VD1 Member=Component D2_VD1 (D2) 824501141
+Added Member To Class: ClassName=VD2 Member=Component D2_VD2 (D2) 824501141
+Added Member To Class: ClassName=VD3 Member=Component D2_VD3 (D2) 824501141
+Added Member To Class: ClassName=VD4 Member=Component D2_VD4 (D2) 824501141
+Added Member To Class: ClassName=VD5 Member=Component D2_VD5 (D2) 824501141

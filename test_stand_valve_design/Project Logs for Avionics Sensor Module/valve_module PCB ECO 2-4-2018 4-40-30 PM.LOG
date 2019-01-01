@@ -1,0 +1,140 @@
+Added Component: Designator=U3_VD1(PowerSO-20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "L298P013TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "ST Microelectronics"; VariantName = "[No Variations]"
+Added Component: Designator=U3_VD2(PowerSO-20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "L298P013TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "ST Microelectronics"; VariantName = "[No Variations]"
+Added Component: Designator=U3_VD3(PowerSO-20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "L298P013TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "ST Microelectronics"; VariantName = "[No Variations]"
+Added Component: Designator=U3_VD4(PowerSO-20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "L298P013TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "ST Microelectronics"; VariantName = "[No Variations]"
+Added Component: Designator=U3_VD5(PowerSO-20)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "C"; Value = "Copyright (C) 2015 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "L298P013TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "ST Microelectronics"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DGND Pin=U3_VD1-1
+Added Pin To Net: NetName=DGND Pin=U3_VD1-2
+Added Pin To Net: NetName=NetP4_VD1_1 Pin=U3_VD1-4
+Added Pin To Net: NetName=NetP4_VD1_2 Pin=U3_VD1-5
+Added Pin To Net: NetName=+12V_IN Pin=U3_VD1-6
+Added Pin To Net: NetName=SOL_A_inC1 Pin=U3_VD1-7
+Added Pin To Net: NetName=ENABLEA1 Pin=U3_VD1-8
+Added Pin To Net: NetName=SOL_A_inD1 Pin=U3_VD1-9
+Added Pin To Net: NetName=DGND Pin=U3_VD1-10
+Added Pin To Net: NetName=DGND Pin=U3_VD1-11
+Added Pin To Net: NetName=+5V_VDD Pin=U3_VD1-12
+Added Pin To Net: NetName=SOL_B_inC1 Pin=U3_VD1-13
+Added Pin To Net: NetName=ENABLEB1 Pin=U3_VD1-14
+Added Pin To Net: NetName=SOL_B_inD1 Pin=U3_VD1-15
+Added Pin To Net: NetName=NetP5_VD1_1 Pin=U3_VD1-16
+Added Pin To Net: NetName=NetP5_VD1_2 Pin=U3_VD1-17
+Added Pin To Net: NetName=DGND Pin=U3_VD1-19
+Added Pin To Net: NetName=DGND Pin=U3_VD1-20
+Added Pin To Net: NetName=DGND Pin=U3_VD2-1
+Added Pin To Net: NetName=DGND Pin=U3_VD2-2
+Added Pin To Net: NetName=NetP4_VD2_1 Pin=U3_VD2-4
+Added Pin To Net: NetName=NetP4_VD2_2 Pin=U3_VD2-5
+Added Pin To Net: NetName=+12V_IN Pin=U3_VD2-6
+Added Pin To Net: NetName=SOL_A_inC2 Pin=U3_VD2-7
+Added Pin To Net: NetName=ENABLEA2 Pin=U3_VD2-8
+Added Pin To Net: NetName=SOL_A_inD2 Pin=U3_VD2-9
+Added Pin To Net: NetName=DGND Pin=U3_VD2-10
+Added Pin To Net: NetName=DGND Pin=U3_VD2-11
+Added Pin To Net: NetName=+5V_VDD Pin=U3_VD2-12
+Added Pin To Net: NetName=SOL_B_inC2 Pin=U3_VD2-13
+Added Pin To Net: NetName=ENABLEB2 Pin=U3_VD2-14
+Added Pin To Net: NetName=SOL_B_inD2 Pin=U3_VD2-15
+Added Pin To Net: NetName=NetP5_VD2_1 Pin=U3_VD2-16
+Added Pin To Net: NetName=NetP5_VD2_2 Pin=U3_VD2-17
+Added Pin To Net: NetName=DGND Pin=U3_VD2-19
+Added Pin To Net: NetName=DGND Pin=U3_VD2-20
+Added Pin To Net: NetName=DGND Pin=U3_VD3-1
+Added Pin To Net: NetName=DGND Pin=U3_VD3-2
+Added Pin To Net: NetName=NetP4_VD3_1 Pin=U3_VD3-4
+Added Pin To Net: NetName=NetP4_VD3_2 Pin=U3_VD3-5
+Added Pin To Net: NetName=+12V_IN Pin=U3_VD3-6
+Added Pin To Net: NetName=SOL_A_inC3 Pin=U3_VD3-7
+Added Pin To Net: NetName=ENABLEA3 Pin=U3_VD3-8
+Added Pin To Net: NetName=SOL_A_inD3 Pin=U3_VD3-9
+Added Pin To Net: NetName=DGND Pin=U3_VD3-10
+Added Pin To Net: NetName=DGND Pin=U3_VD3-11
+Added Pin To Net: NetName=+5V_VDD Pin=U3_VD3-12
+Added Pin To Net: NetName=SOL_B_inC3 Pin=U3_VD3-13
+Added Pin To Net: NetName=ENABLEB3 Pin=U3_VD3-14
+Added Pin To Net: NetName=SOL_B_inD3 Pin=U3_VD3-15
+Added Pin To Net: NetName=NetP5_VD3_1 Pin=U3_VD3-16
+Added Pin To Net: NetName=NetP5_VD3_2 Pin=U3_VD3-17
+Added Pin To Net: NetName=DGND Pin=U3_VD3-19
+Added Pin To Net: NetName=DGND Pin=U3_VD3-20
+Added Pin To Net: NetName=DGND Pin=U3_VD4-1
+Added Pin To Net: NetName=DGND Pin=U3_VD4-2
+Added Pin To Net: NetName=NetP4_VD4_1 Pin=U3_VD4-4
+Added Pin To Net: NetName=NetP4_VD4_2 Pin=U3_VD4-5
+Added Pin To Net: NetName=+12V_IN Pin=U3_VD4-6
+Added Pin To Net: NetName=SOL_A_inC4 Pin=U3_VD4-7
+Added Pin To Net: NetName=ENABLEA4 Pin=U3_VD4-8
+Added Pin To Net: NetName=SOL_A_inD4 Pin=U3_VD4-9
+Added Pin To Net: NetName=DGND Pin=U3_VD4-10
+Added Pin To Net: NetName=DGND Pin=U3_VD4-11
+Added Pin To Net: NetName=+5V_VDD Pin=U3_VD4-12
+Added Pin To Net: NetName=SOL_B_inC4 Pin=U3_VD4-13
+Added Pin To Net: NetName=ENABLEB4 Pin=U3_VD4-14
+Added Pin To Net: NetName=SOL_B_inD4 Pin=U3_VD4-15
+Added Pin To Net: NetName=NetP5_VD4_1 Pin=U3_VD4-16
+Added Pin To Net: NetName=NetP5_VD4_2 Pin=U3_VD4-17
+Added Pin To Net: NetName=DGND Pin=U3_VD4-19
+Added Pin To Net: NetName=DGND Pin=U3_VD4-20
+Added Pin To Net: NetName=DGND Pin=U3_VD5-1
+Added Pin To Net: NetName=DGND Pin=U3_VD5-2
+Added Pin To Net: NetName=NetP4_VD5_1 Pin=U3_VD5-4
+Added Pin To Net: NetName=NetP4_VD5_2 Pin=U3_VD5-5
+Added Pin To Net: NetName=+12V_IN Pin=U3_VD5-6
+Added Pin To Net: NetName=SOL_A_inC5 Pin=U3_VD5-7
+Added Pin To Net: NetName=ENABLEA5 Pin=U3_VD5-8
+Added Pin To Net: NetName=SOL_A_inD5 Pin=U3_VD5-9
+Added Pin To Net: NetName=DGND Pin=U3_VD5-10
+Added Pin To Net: NetName=DGND Pin=U3_VD5-11
+Added Pin To Net: NetName=+5V_VDD Pin=U3_VD5-12
+Added Pin To Net: NetName=SOL_B_inC5 Pin=U3_VD5-13
+Added Pin To Net: NetName=ENABLEB5 Pin=U3_VD5-14
+Added Pin To Net: NetName=SOL_B_inD5 Pin=U3_VD5-15
+Added Pin To Net: NetName=NetP5_VD5_1 Pin=U3_VD5-16
+Added Pin To Net: NetName=NetP5_VD5_2 Pin=U3_VD5-17
+Added Pin To Net: NetName=DGND Pin=U3_VD5-19
+Added Pin To Net: NetName=DGND Pin=U3_VD5-20
+Added Member To Class: ClassName=VD1 Member=Component U3_VD1 (U3) L298P013TR
+Added Member To Class: ClassName=VD2 Member=Component U3_VD2 (U3) L298P013TR
+Added Member To Class: ClassName=VD3 Member=Component U3_VD3 (U3) L298P013TR
+Added Member To Class: ClassName=VD4 Member=Component U3_VD4 (U3) L298P013TR
+Added Member To Class: ClassName=VD5 Member=Component U3_VD5 (U3) L298P013TR

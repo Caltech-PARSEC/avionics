@@ -1,0 +1,73 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Tara\OneDrive - California Institute of Technology\Avionics_PARSEC\Avionics Sensor Module\valve_module.PcbDoc
+Date     : 4/21/2018
+Time     : 3:44:42 PM
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=3mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=11.811mil) (Max=1000mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Room VD3 (Bounding Region = (2640mil, 795mil, 3980mil, 1978.504mil) (InComponentClass('VD3'))
+Rule Violations :0
+
+Processing Rule : Room VD4 (Bounding Region = (1285mil, 780mil, 2625mil, 1985mil) (InComponentClass('VD4'))
+Rule Violations :0
+
+Processing Rule : Room VD5 (Bounding Region = (1060mil, 2305mil, 2245mil, 3645mil) (InComponentClass('VD5'))
+Rule Violations :0
+
+Processing Rule : Room VD2 (Bounding Region = (2629mil, 4010mil, 3969mil, 5265mil) (InComponentClass('VD2'))
+Rule Violations :0
+
+Processing Rule : Room PWR (Bounding Region = (2765.433mil, 2000.433mil, 3975mil, 3025mil) (InComponentClass('PWR'))
+   Violation between Room Definition: Between SMT Small Component D3-LED (4060mil,3810mil) on Top Layer And Room PWR (Bounding Region = (2765.433mil, 2000.433mil, 3975mil, 3025mil) (InComponentClass('PWR')) 
+   Violation between Room Definition: Between SMT Small Component R7-2k (4060mil,3940mil) on Top Layer And Room PWR (Bounding Region = (2765.433mil, 2000.433mil, 3975mil, 3025mil) (InComponentClass('PWR')) 
+Rule Violations :2
+
+Processing Rule : Room VD1 (Bounding Region = (1253mil, 4000mil, 2605mil, 5250mil) (InComponentClass('VD1'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 2
+Time Elapsed        : 00:00:11

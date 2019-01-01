@@ -1,0 +1,35 @@
+*************************************************************
+FileName = valve_module.GBR
+AutoAperture = True
+*************************************************************
+Generating : Signal Layer 1
+      File : valve_module.G1
+
+    Adding Layer      : Signal Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Signal Layer 2
+      File : valve_module.G2
+
+    Adding Layer      : Signal Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D13
+    D14
+    D15
+*************************************************************
+

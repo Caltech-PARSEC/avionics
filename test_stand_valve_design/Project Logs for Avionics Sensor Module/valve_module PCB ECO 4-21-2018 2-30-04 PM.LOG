@@ -1,0 +1,80 @@
+Added Component: Designator=P7(Molex KK 4x1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P8(Molex KK 4x1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P9(Molex KK 4x1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P10(Molex KK 4x1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P11(Molex KK 4x1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P12(Molex KK 4x1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P13(Molex KK 4x1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P14(Molex KK 4x1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P15(Molex KK 4x1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P16(Molex KK 4x1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3_DVDD Pin=P7-1
+Added Pin To Net: NetName=DGND Pin=P7-3
+Added Pin To Net: NetName=3V3_DVDD Pin=P8-1
+Added Pin To Net: NetName=DGND Pin=P8-3
+Added Pin To Net: NetName=3V3_DVDD Pin=P9-1
+Added Pin To Net: NetName=DGND Pin=P9-3
+Added Pin To Net: NetName=3V3_DVDD Pin=P10-1
+Added Pin To Net: NetName=DGND Pin=P10-3
+Added Pin To Net: NetName=3V3_DVDD Pin=P11-1
+Added Pin To Net: NetName=DGND Pin=P11-3
+Added Pin To Net: NetName=3V3_DVDD Pin=P12-1
+Added Pin To Net: NetName=DGND Pin=P12-3
+Added Pin To Net: NetName=3V3_DVDD Pin=P13-1
+Added Pin To Net: NetName=DGND Pin=P13-3
+Added Pin To Net: NetName=3V3_DVDD Pin=P14-1
+Added Pin To Net: NetName=DGND Pin=P14-3
+Added Pin To Net: NetName=3V3_DVDD Pin=P15-1
+Added Pin To Net: NetName=DGND Pin=P15-3
+Added Pin To Net: NetName=3V3_DVDD Pin=P16-1
+Added Pin To Net: NetName=DGND Pin=P16-3
+Added Pin To Net: NetName=POT0 Pin=P7-2
+Added Pin To Net: NetName=POT0 Pin=U2-23
+Added Net: Name=POT0
+Added Pin To Net: NetName=POT1 Pin=P8-2
+Added Pin To Net: NetName=POT1 Pin=U2-24
+Added Net: Name=POT1
+Added Pin To Net: NetName=POT2 Pin=P9-2
+Added Pin To Net: NetName=POT2 Pin=U2-25
+Added Net: Name=POT2
+Added Pin To Net: NetName=POT3 Pin=P11-2
+Added Pin To Net: NetName=POT3 Pin=U2-26
+Added Net: Name=POT3
+Added Pin To Net: NetName=POT4 Pin=P10-2
+Added Pin To Net: NetName=POT4 Pin=U2-29
+Added Net: Name=POT4
+Added Pin To Net: NetName=POT5 Pin=P16-2
+Added Pin To Net: NetName=POT5 Pin=U2-30
+Added Net: Name=POT5
+Added Pin To Net: NetName=POT6 Pin=P12-2
+Added Pin To Net: NetName=POT6 Pin=U2-31
+Added Net: Name=POT6
+Added Pin To Net: NetName=POT7 Pin=P13-2
+Added Pin To Net: NetName=POT7 Pin=U2-32
+Added Net: Name=POT7
+Added Pin To Net: NetName=POT8 Pin=P14-2
+Added Pin To Net: NetName=POT8 Pin=U2-35
+Added Net: Name=POT8
+Added Pin To Net: NetName=POT9 Pin=P15-2
+Added Pin To Net: NetName=POT9 Pin=U2-36
+Added Net: Name=POT9
+Added Member To Class: ClassName=micro_schematic Member=Component P7 Molex KK 1x4
+Added Member To Class: ClassName=micro_schematic Member=Component P8 Molex KK 1x4
+Added Member To Class: ClassName=micro_schematic Member=Component P9 Molex KK 1x4
+Added Member To Class: ClassName=micro_schematic Member=Component P10 Molex KK 1x4
+Added Member To Class: ClassName=micro_schematic Member=Component P11 Molex KK 1x4
+Added Member To Class: ClassName=micro_schematic Member=Component P12 Molex KK 1x4
+Added Member To Class: ClassName=micro_schematic Member=Component P13 Molex KK 1x4
+Added Member To Class: ClassName=micro_schematic Member=Component P14 Molex KK 1x4
+Added Member To Class: ClassName=micro_schematic Member=Component P15 Molex KK 1x4
+Added Member To Class: ClassName=micro_schematic Member=Component P16 Molex KK 1x4
