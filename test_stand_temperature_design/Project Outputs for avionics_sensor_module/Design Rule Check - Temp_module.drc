@@ -1,0 +1,83 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Malia\Documents\PARSEC\avionics_sensor_module\Temp_module.PcbDoc
+Date     : 4/15/2018
+Time     : 4:13:56 PM
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.152mm) (Max=2.54mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=6.35mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Room TEMP6 (Bounding Region = (147.866mm, 83.439mm, 171.831mm, 126.746mm) (InComponentClass('TEMP6'))
+Rule Violations :0
+
+Processing Rule : Room TEMP4 (Bounding Region = (99.187mm, 83.439mm, 123.152mm, 126.746mm) (InComponentClass('TEMP4'))
+Rule Violations :0
+
+Processing Rule : Room TEMP5 (Bounding Region = (123.355mm, 83.439mm, 147.32mm, 126.746mm) (InComponentClass('TEMP5'))
+Rule Violations :0
+
+Processing Rule : Room TEMP7 (Bounding Region = (172.636mm, 83.655mm, 196.601mm, 126.962mm) (InComponentClass('TEMP7'))
+Rule Violations :0
+
+Processing Rule : Room TEMP10 (Bounding Region = (246.126mm, 83.312mm, 270.091mm, 126.619mm) (InComponentClass('TEMP10'))
+Rule Violations :0
+
+Processing Rule : Room TEMP9 (Bounding Region = (221.615mm, 83.312mm, 245.58mm, 126.619mm) (InComponentClass('TEMP9'))
+Rule Violations :0
+
+Processing Rule : Room TEMP8 (Bounding Region = (197.104mm, 83.439mm, 221.069mm, 126.746mm) (InComponentClass('TEMP8'))
+Rule Violations :0
+
+Processing Rule : Room TEMP3 (Bounding Region = (75.222mm, 83.312mm, 99.187mm, 126.619mm) (InComponentClass('TEMP3'))
+Rule Violations :0
+
+Processing Rule : Room POWER (Bounding Region = (26.289mm, 61.849mm, 48.768mm, 80.518mm) (InComponentClass('POWER'))
+Rule Violations :0
+
+Processing Rule : Room micro_schematic (Bounding Region = (119.924mm, 50.455mm, 157.516mm, 78.522mm) (InComponentClass('micro_schematic'))
+Rule Violations :0
+
+Processing Rule : Room TEMP2 (Bounding Region = (50.8mm, 83.058mm, 74.765mm, 126.365mm) (InComponentClass('TEMP2'))
+Rule Violations :0
+
+Processing Rule : Room TEMP1 (Bounding Region = (25.819mm, 83.312mm, 49.784mm, 126.619mm) (InComponentClass('TEMP1'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:03

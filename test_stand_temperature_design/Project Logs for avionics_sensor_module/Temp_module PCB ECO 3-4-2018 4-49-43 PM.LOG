@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetR4_1 Pin=R4-1
+Removed Pin From Net: NetName=3V3_DVDD Pin=R4-2
+Removed Pin From Net: NetName=NetR4_1 Pin=SW1-1
+Removed Pin From Net: NetName=NetR4_1 Pin=SW1-1
+Added Component: Designator=R4(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(PUSHBUTTON)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=3V3_DVDD Pin=R4-2
+Added Pin To Net: NetName=NetR4_1 Pin=SW1-1
+Added Pin To Net: NetName=NetR4_1 Pin=SW1-1
+Added Pin To Net: NetName=DGND Pin=SW1-2
+Added Pin To Net: NetName=DGND Pin=SW1-2

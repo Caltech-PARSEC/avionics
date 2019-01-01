@@ -1,0 +1,17 @@
+Added Component: Designator=D1(0805LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "OSRAM Opto Semiconductors Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LS T676-Q1R2-1-Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel"; Value = "D13"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DGND Pin=D1-K
+Added Pin To Net: NetName=3V3_DVDD Pin=R5-2
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=R5-1
+Added Net: Name=NetD1_A
+Added Member To Class: ClassName=POWER Member=Component D1 LED
+Added Member To Class: ClassName=micro_schematic Member=Component R4 1K
+Added Member To Class: ClassName=POWER Member=Component R5 2k
+Added Member To Class: ClassName=micro_schematic Member=Component SW1 Push Switch

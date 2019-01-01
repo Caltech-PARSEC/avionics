@@ -1,0 +1,92 @@
+[0722/161825:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (0x2740)
+[0722/161825:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
+[0722/161828:WARNING:backend_impl.cc(1807)] Destroying invalid entry.
+[0722/161840:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (0x2740)
+[0722/161840:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
+[0722/161842:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0722/161842:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {9012C505-8700-42F8-AF55-18CA3C6E21BC}\BrowserCache\GPUCache to C:\ProgramData\Altium\Altium Designer {9012C505-8700-42F8-AF55-18CA3C6E21BC}\BrowserCache\old_GPUCache_000
+[0722/161842:ERROR:cache_creator.cc(129)] Unable to create cache
+[0722/161842:ERROR:shader_disk_cache.cc(589)] Shader Cache Creation failed: -2
+[0722/161843:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0722/161843:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {9012C505-8700-42F8-AF55-18CA3C6E21BC}\BrowserCache to C:\ProgramData\Altium\Altium Designer {9012C505-8700-42F8-AF55-18CA3C6E21BC}\old_BrowserCache_000
+[0722/161843:ERROR:cache_creator.cc(129)] Unable to create cache
+[0722/164010:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/164010:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/194112:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/194112:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/194117:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/194117:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/194117:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/194117:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223448:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223449:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223449:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223453:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223454:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223454:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223458:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223459:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223459:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223504:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223504:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223504:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223509:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223509:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223509:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223514:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223514:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223514:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223519:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223519:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223519:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223524:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223524:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223524:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223529:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223529:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223529:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223534:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223534:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223534:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223539:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223539:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223539:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223544:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223544:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223612:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223612:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223617:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223617:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223622:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223622:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223627:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223627:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223632:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223632:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223637:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223637:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223642:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223642:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223647:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223647:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223652:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223652:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223657:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223657:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223702:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223702:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223707:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223707:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223712:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223712:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223717:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223717:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223722:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223722:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223724:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223724:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223724:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223724:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223724:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223724:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0722/223724:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.

@@ -1,0 +1,12 @@
+mycan.c:19:6:Init_MyCAN	4	static
+mycan.c:29:10:create_ID	16	static
+mycan.c:40:6:CAN_can_transmit	16	static
+mycan.c:48:6:CAN_byte_msg	16	static
+mycan.c:53:6:CAN_short_msg	16	static
+mycan.c:58:6:CAN_long_msg	24	static
+mycan.c:64:9:CAN_decode_byte	16	static
+mycan.c:67:10:CAN_decode_short	16	static
+mycan.c:70:10:CAN_decode_long	16	static
+mycan.c:74:6:CAN_queue_transmit	40	static
+mycan.c:113:6:CAN_has_msg	16	static
+mycan.c:119:6:CAN_dequeue_msg	24	static

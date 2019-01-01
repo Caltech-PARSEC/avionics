@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=CS1 Pin=U2-81
+Removed Pin From Net: NetName=CS2 Pin=U2-82
+Removed Pin From Net: NetName=CS3 Pin=U2-83
+Removed Pin From Net: NetName=CS4 Pin=U2-84
+Removed Pin From Net: NetName=CS5 Pin=U2-85
+Removed Pin From Net: NetName=CS6 Pin=U2-86
+Removed Pin From Net: NetName=CS7 Pin=U2-87
+Removed Pin From Net: NetName=CS8 Pin=U2-88
+Added Pin To Net: NetName=CS8 Pin=U2-39
+Added Pin To Net: NetName=CS7 Pin=U2-40
+Added Pin To Net: NetName=CS6 Pin=U2-41
+Added Pin To Net: NetName=CS5 Pin=U2-42
+Added Pin To Net: NetName=CS4 Pin=U2-43
+Added Pin To Net: NetName=CS3 Pin=U2-44
+Added Pin To Net: NetName=CS2 Pin=U2-45
+Added Pin To Net: NetName=CS1 Pin=U2-46
