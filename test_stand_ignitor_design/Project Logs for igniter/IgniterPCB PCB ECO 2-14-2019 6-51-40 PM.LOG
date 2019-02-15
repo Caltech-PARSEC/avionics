@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetQ?_2 New Net Name=NetQ1_2
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR6_2
+Added Room: Name=Designator
+Added Room: Name=micro_schematic
+Added Room: Name=U_Power
