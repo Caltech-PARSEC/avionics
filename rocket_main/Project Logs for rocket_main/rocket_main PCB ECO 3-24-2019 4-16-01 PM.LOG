@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=ADC_IN_[1..6] Member=ADC_IN_1
+Removed Member From Class: ClassName=ADC_IN_[1..6] Member=ADC_IN_2
+Removed Member From Class: ClassName=ADC_IN_[1..6] Member=ADC_IN_3
+Removed Member From Class: ClassName=ADC_IN_[1..6] Member=ADC_IN_4
+Removed Member From Class: ClassName=ADC_IN_[1..6] Member=ADC_IN_5
+Removed Member From Class: ClassName=ADC_IN_[1..6] Member=ADC_IN_6
+Added Pin To Net: NetName=ADC_IN5 Pin=U4-15
+Added Pin To Net: NetName=ADC_IN6 Pin=U4-16
+Added Pin To Net: NetName=ADC_IN1 Pin=U4-23
+Added Pin To Net: NetName=ADC_IN2 Pin=U4-24
+Added Pin To Net: NetName=ADC_IN3 Pin=U4-25
+Added Pin To Net: NetName=ADC_IN4 Pin=U4-26
+Change Class Name : Old Net Name=ADC_IN_[1..6] New Net Name=ADC_IN[1..6]
+Added Member To Class: ClassName=ADC_IN[1..6] Member=Element[1]: ADC_IN
+Added Member To Class: ClassName=ADC_IN[1..6] Member=Element[2]: ADC_IN
+Added Member To Class: ClassName=ADC_IN[1..6] Member=Element[3]: ADC_IN
+Added Member To Class: ClassName=ADC_IN[1..6] Member=Element[4]: ADC_IN
+Added Member To Class: ClassName=ADC_IN[1..6] Member=Element[5]: ADC_IN
+Added Member To Class: ClassName=ADC_IN[1..6] Member=Element[6]: ADC_IN

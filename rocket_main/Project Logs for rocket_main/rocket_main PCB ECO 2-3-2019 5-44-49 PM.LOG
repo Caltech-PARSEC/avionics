@@ -1,0 +1,56 @@
+Added Component: Designator=D1_VD1(DIODE-SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMCJ120CABTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D1_VD2(DIODE-SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMCJ120CABTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D1_VD3(DIODE-SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMCJ120CABTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D1_VD4(DIODE-SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMCJ120CABTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D2_VD1(DIODE-SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMCJ120CABTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D2_VD2(DIODE-SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMCJ120CABTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D2_VD3(DIODE-SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMCJ120CABTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D2_VD4(DIODE-SMA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SMCJ120CABTR-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_VD1_A Pin=D1_VD1-A
+Added Pin To Net: NetName=NetD1_VD1_K Pin=D1_VD1-K
+Added Pin To Net: NetName=NetD1_VD2_A Pin=D1_VD2-A
+Added Pin To Net: NetName=NetD1_VD2_K Pin=D1_VD2-K
+Added Pin To Net: NetName=NetD1_VD3_A Pin=D1_VD3-A
+Added Pin To Net: NetName=NetD1_VD3_K Pin=D1_VD3-K
+Added Pin To Net: NetName=NetD1_VD4_A Pin=D1_VD4-A
+Added Pin To Net: NetName=NetD1_VD4_K Pin=D1_VD4-K
+Added Pin To Net: NetName=NetD2_VD1_A Pin=D2_VD1-A
+Added Pin To Net: NetName=NetD2_VD1_K Pin=D2_VD1-K
+Added Pin To Net: NetName=NetD2_VD2_A Pin=D2_VD2-A
+Added Pin To Net: NetName=NetD2_VD2_K Pin=D2_VD2-K
+Added Pin To Net: NetName=NetD2_VD3_A Pin=D2_VD3-A
+Added Pin To Net: NetName=NetD2_VD3_K Pin=D2_VD3-K
+Added Pin To Net: NetName=NetD2_VD4_A Pin=D2_VD4-A
+Added Pin To Net: NetName=NetD2_VD4_K Pin=D2_VD4-K
+Added Member To Class: ClassName=VD1 Member=Component D1_VD1 (D1) 824501141
+Added Member To Class: ClassName=VD2 Member=Component D1_VD2 (D1) 824501141
+Added Member To Class: ClassName=VD3 Member=Component D1_VD3 (D1) 824501141
+Added Member To Class: ClassName=VD4 Member=Component D1_VD4 (D1) 824501141
+Added Member To Class: ClassName=VD1 Member=Component D2_VD1 (D2) 824501141
+Added Member To Class: ClassName=VD2 Member=Component D2_VD2 (D2) 824501141
+Added Member To Class: ClassName=VD3 Member=Component D2_VD3 (D2) 824501141
+Added Member To Class: ClassName=VD4 Member=Component D2_VD4 (D2) 824501141

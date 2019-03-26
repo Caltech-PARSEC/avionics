@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=DGND Pin=C1-2
+Removed Pin From Net: NetName=3V3_DVDD Pin=C2-1
+Removed Pin From Net: NetName=DGND Pin=C2-2
+Removed Pin From Net: NetName=DGND Pin=D1-K
+Removed Pin From Net: NetName=AGND Pin=FB2-1
+Removed Pin From Net: NetName=DGND Pin=FB2-2
+Removed Pin From Net: NetName=DGND Pin=P1-1
+Removed Pin From Net: NetName=DGND Pin=P2-2
+Removed Pin From Net: NetName=DGND Pin=R2-1
+Removed Pin From Net: NetName=3V3_DVDD Pin=R5-2
+Removed Member From Class: ClassName=POWER Member=D1
+Change Component Comment : Designator=C1 Old Comment=.1uF New Comment=1uF
+Change Component Comment : Designator=C2 Old Comment=1uF New Comment=0.1uF
+Change Component Comment : Designator=R5 Old Comment=2k New Comment=240R
+Change Component Comment : Designator=R2 Old Comment=390 R New Comment=390R
+Change component parameters: Designator = "C1"; Footprint = "C0805"; UniqueID = "\QYPOXBMU\CSTXPDAM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "C0805"; UniqueID = "\QYPOXBMU\OPFPIWKX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "R0805"; UniqueID = "\QYPOXBMU\PANPKBHB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "390R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5"; Footprint = "R0805"; UniqueID = "\QYPOXBMU\TEOVUNXD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "240R"; VariantName = "[No Variations]"
+Added Component: Designator=C22(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C23(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=D3(0805LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "OSRAM Opto Semiconductors Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LS T676-Q1R2-1-Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reel"; Value = "D13"; VariantName = "[No Variations]"
+Added Component: Designator=P6(Molex KK 2x1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R6(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "536R"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Added Component: Designator=U4(D-PAK)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3_DVDD Pin=C1-1
+Added Pin To Net: NetName=+12V_IN Pin=C2-1
+Added Pin To Net: NetName=+5V_VDD Pin=C22-1
+Added Pin To Net: NetName=+12V_IN Pin=C23-1
+Added Pin To Net: NetName=+12V_IN Pin=P1-2
+Added Pin To Net: NetName=+5V_VDD Pin=P6-1
+Added Pin To Net: NetName=+5V_VDD Pin=R5-2
+Added Pin To Net: NetName=3V3_DVDD Pin=R7-2
+Added Pin To Net: NetName=+12V_IN Pin=U1-3
+Added Pin To Net: NetName=+12V_IN Pin=U4-3
+Added Pin To Net: NetName=+5V_VDD Pin=U4-4
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=NetD3_A Pin=R7-1
+Added Net: Name=NetD3_A
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=R6-2
+Added Pin To Net: NetName=NetR5_1 Pin=U4-1
+Added Net: Name=NetR5_1
+Added Member To Class: ClassName=POWER Member=Component C22 1uF
+Added Member To Class: ClassName=POWER Member=Component C23 0.1uF
+Added Member To Class: ClassName=POWER Member=Component D3 LED
+Added Member To Class: ClassName=VD1 Member=Component P4_VD1 (P4) Molex KK 1x2
+Added Member To Class: ClassName=POWER Member=Component P6 Molex KK 1x2
+Added Member To Class: ClassName=POWER Member=Component R6 536R
+Added Member To Class: ClassName=POWER Member=Component R7 2k
+Added Member To Class: ClassName=POWER Member=Component U4 LM317

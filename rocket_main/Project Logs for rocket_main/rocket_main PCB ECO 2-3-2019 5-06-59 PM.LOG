@@ -1,0 +1,112 @@
+Added Component: Designator=U3_TEMP1(MAXIM TSSOP14)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3_TEMP2(MAXIM TSSOP14)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3_TEMP3(MAXIM TSSOP14)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3_TEMP4(MAXIM TSSOP14)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3_TEMP5(MAXIM TSSOP14)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3_TEMP6(MAXIM TSSOP14)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3_TEMP7(MAXIM TSSOP14)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3_TEMP8(MAXIM TSSOP14)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=AGND Pin=U3_TEMP1-1
+Added Pin To Net: NetName=NetC20_TEMP1_1 Pin=U3_TEMP1-2
+Added Pin To Net: NetName=NetC20_TEMP1_1 Pin=U3_TEMP1-3
+Added Pin To Net: NetName=NetC21_TEMP1_2 Pin=U3_TEMP1-4
+Added Pin To Net: NetName=3V3_AVDD Pin=U3_TEMP1-5
+Added Pin To Net: NetName=3V3_DVDD Pin=U3_TEMP1-8
+Added Pin To Net: NetName=CS1 Pin=U3_TEMP1-9
+Added Pin To Net: NetName=CLK Pin=U3_TEMP1-10
+Added Pin To Net: NetName=MISO Pin=U3_TEMP1-11
+Added Pin To Net: NetName=MOSI Pin=U3_TEMP1-12
+Added Pin To Net: NetName=DGND Pin=U3_TEMP1-14
+Added Pin To Net: NetName=AGND Pin=U3_TEMP2-1
+Added Pin To Net: NetName=NetC20_TEMP2_1 Pin=U3_TEMP2-2
+Added Pin To Net: NetName=NetC20_TEMP2_1 Pin=U3_TEMP2-3
+Added Pin To Net: NetName=NetC21_TEMP2_2 Pin=U3_TEMP2-4
+Added Pin To Net: NetName=3V3_AVDD Pin=U3_TEMP2-5
+Added Pin To Net: NetName=3V3_DVDD Pin=U3_TEMP2-8
+Added Pin To Net: NetName=CS2 Pin=U3_TEMP2-9
+Added Pin To Net: NetName=CLK Pin=U3_TEMP2-10
+Added Pin To Net: NetName=MISO Pin=U3_TEMP2-11
+Added Pin To Net: NetName=MOSI Pin=U3_TEMP2-12
+Added Pin To Net: NetName=DGND Pin=U3_TEMP2-14
+Added Pin To Net: NetName=AGND Pin=U3_TEMP3-1
+Added Pin To Net: NetName=NetC20_TEMP3_1 Pin=U3_TEMP3-2
+Added Pin To Net: NetName=NetC20_TEMP3_1 Pin=U3_TEMP3-3
+Added Pin To Net: NetName=NetC21_TEMP3_2 Pin=U3_TEMP3-4
+Added Pin To Net: NetName=3V3_AVDD Pin=U3_TEMP3-5
+Added Pin To Net: NetName=3V3_DVDD Pin=U3_TEMP3-8
+Added Pin To Net: NetName=CS3 Pin=U3_TEMP3-9
+Added Pin To Net: NetName=CLK Pin=U3_TEMP3-10
+Added Pin To Net: NetName=MISO Pin=U3_TEMP3-11
+Added Pin To Net: NetName=MOSI Pin=U3_TEMP3-12
+Added Pin To Net: NetName=DGND Pin=U3_TEMP3-14
+Added Pin To Net: NetName=AGND Pin=U3_TEMP4-1
+Added Pin To Net: NetName=NetC20_TEMP4_1 Pin=U3_TEMP4-2
+Added Pin To Net: NetName=NetC20_TEMP4_1 Pin=U3_TEMP4-3
+Added Pin To Net: NetName=NetC21_TEMP4_2 Pin=U3_TEMP4-4
+Added Pin To Net: NetName=3V3_AVDD Pin=U3_TEMP4-5
+Added Pin To Net: NetName=3V3_DVDD Pin=U3_TEMP4-8
+Added Pin To Net: NetName=CS4 Pin=U3_TEMP4-9
+Added Pin To Net: NetName=CLK Pin=U3_TEMP4-10
+Added Pin To Net: NetName=MISO Pin=U3_TEMP4-11
+Added Pin To Net: NetName=MOSI Pin=U3_TEMP4-12
+Added Pin To Net: NetName=DGND Pin=U3_TEMP4-14
+Added Pin To Net: NetName=AGND Pin=U3_TEMP5-1
+Added Pin To Net: NetName=NetC20_TEMP5_1 Pin=U3_TEMP5-2
+Added Pin To Net: NetName=NetC20_TEMP5_1 Pin=U3_TEMP5-3
+Added Pin To Net: NetName=NetC21_TEMP5_2 Pin=U3_TEMP5-4
+Added Pin To Net: NetName=3V3_AVDD Pin=U3_TEMP5-5
+Added Pin To Net: NetName=3V3_DVDD Pin=U3_TEMP5-8
+Added Pin To Net: NetName=CS5 Pin=U3_TEMP5-9
+Added Pin To Net: NetName=CLK Pin=U3_TEMP5-10
+Added Pin To Net: NetName=MISO Pin=U3_TEMP5-11
+Added Pin To Net: NetName=MOSI Pin=U3_TEMP5-12
+Added Pin To Net: NetName=DGND Pin=U3_TEMP5-14
+Added Pin To Net: NetName=AGND Pin=U3_TEMP6-1
+Added Pin To Net: NetName=NetC20_TEMP6_1 Pin=U3_TEMP6-2
+Added Pin To Net: NetName=NetC20_TEMP6_1 Pin=U3_TEMP6-3
+Added Pin To Net: NetName=NetC21_TEMP6_2 Pin=U3_TEMP6-4
+Added Pin To Net: NetName=3V3_AVDD Pin=U3_TEMP6-5
+Added Pin To Net: NetName=3V3_DVDD Pin=U3_TEMP6-8
+Added Pin To Net: NetName=CS6 Pin=U3_TEMP6-9
+Added Pin To Net: NetName=CLK Pin=U3_TEMP6-10
+Added Pin To Net: NetName=MISO Pin=U3_TEMP6-11
+Added Pin To Net: NetName=MOSI Pin=U3_TEMP6-12
+Added Pin To Net: NetName=DGND Pin=U3_TEMP6-14
+Added Pin To Net: NetName=AGND Pin=U3_TEMP7-1
+Added Pin To Net: NetName=NetC20_TEMP7_1 Pin=U3_TEMP7-2
+Added Pin To Net: NetName=NetC20_TEMP7_1 Pin=U3_TEMP7-3
+Added Pin To Net: NetName=NetC21_TEMP7_2 Pin=U3_TEMP7-4
+Added Pin To Net: NetName=3V3_AVDD Pin=U3_TEMP7-5
+Added Pin To Net: NetName=3V3_DVDD Pin=U3_TEMP7-8
+Added Pin To Net: NetName=CS7 Pin=U3_TEMP7-9
+Added Pin To Net: NetName=CLK Pin=U3_TEMP7-10
+Added Pin To Net: NetName=MISO Pin=U3_TEMP7-11
+Added Pin To Net: NetName=MOSI Pin=U3_TEMP7-12
+Added Pin To Net: NetName=DGND Pin=U3_TEMP7-14
+Added Pin To Net: NetName=AGND Pin=U3_TEMP8-1
+Added Pin To Net: NetName=NetC20_TEMP8_1 Pin=U3_TEMP8-2
+Added Pin To Net: NetName=NetC20_TEMP8_1 Pin=U3_TEMP8-3
+Added Pin To Net: NetName=NetC21_TEMP8_2 Pin=U3_TEMP8-4
+Added Pin To Net: NetName=3V3_AVDD Pin=U3_TEMP8-5
+Added Pin To Net: NetName=3V3_DVDD Pin=U3_TEMP8-8
+Added Pin To Net: NetName=CS8 Pin=U3_TEMP8-9
+Added Pin To Net: NetName=CLK Pin=U3_TEMP8-10
+Added Pin To Net: NetName=MISO Pin=U3_TEMP8-11
+Added Pin To Net: NetName=MOSI Pin=U3_TEMP8-12
+Added Pin To Net: NetName=DGND Pin=U3_TEMP8-14
+Added Member To Class: ClassName=TEMP1 Member=Component U3_TEMP1 (U3) MAXIM TSSOP14
+Added Member To Class: ClassName=TEMP2 Member=Component U3_TEMP2 (U3) MAXIM TSSOP14
+Added Member To Class: ClassName=TEMP3 Member=Component U3_TEMP3 (U3) MAXIM TSSOP14
+Added Member To Class: ClassName=TEMP4 Member=Component U3_TEMP4 (U3) MAXIM TSSOP14
+Added Member To Class: ClassName=TEMP5 Member=Component U3_TEMP5 (U3) MAXIM TSSOP14
+Added Member To Class: ClassName=TEMP6 Member=Component U3_TEMP6 (U3) MAXIM TSSOP14
+Added Member To Class: ClassName=TEMP7 Member=Component U3_TEMP7 (U3) MAXIM TSSOP14
+Added Member To Class: ClassName=TEMP8 Member=Component U3_TEMP8 (U3) MAXIM TSSOP14

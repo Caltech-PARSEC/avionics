@@ -1,0 +1,40 @@
+Added Component: Designator=J1_TEMP1(PCC-SMP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1_TEMP2(PCC-SMP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1_TEMP3(PCC-SMP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1_TEMP4(PCC-SMP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1_TEMP5(PCC-SMP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1_TEMP6(PCC-SMP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1_TEMP7(PCC-SMP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J1_TEMP8(PCC-SMP)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC21_TEMP1_2 Pin=J1_TEMP1-+
+Added Pin To Net: NetName=NetC20_TEMP1_1 Pin=J1_TEMP1-K
+Added Pin To Net: NetName=NetC21_TEMP2_2 Pin=J1_TEMP2-+
+Added Pin To Net: NetName=NetC20_TEMP2_1 Pin=J1_TEMP2-K
+Added Pin To Net: NetName=NetC21_TEMP3_2 Pin=J1_TEMP3-+
+Added Pin To Net: NetName=NetC20_TEMP3_1 Pin=J1_TEMP3-K
+Added Pin To Net: NetName=NetC21_TEMP4_2 Pin=J1_TEMP4-+
+Added Pin To Net: NetName=NetC20_TEMP4_1 Pin=J1_TEMP4-K
+Added Pin To Net: NetName=NetC21_TEMP5_2 Pin=J1_TEMP5-+
+Added Pin To Net: NetName=NetC20_TEMP5_1 Pin=J1_TEMP5-K
+Added Pin To Net: NetName=NetC21_TEMP6_2 Pin=J1_TEMP6-+
+Added Pin To Net: NetName=NetC20_TEMP6_1 Pin=J1_TEMP6-K
+Added Pin To Net: NetName=NetC21_TEMP7_2 Pin=J1_TEMP7-+
+Added Pin To Net: NetName=NetC20_TEMP7_1 Pin=J1_TEMP7-K
+Added Pin To Net: NetName=NetC21_TEMP8_2 Pin=J1_TEMP8-+
+Added Pin To Net: NetName=NetC20_TEMP8_1 Pin=J1_TEMP8-K
+Added Member To Class: ClassName=TEMP1 Member=Component J1_TEMP1 (J1) PCC-SMP
+Added Member To Class: ClassName=TEMP2 Member=Component J1_TEMP2 (J1) PCC-SMP
+Added Member To Class: ClassName=TEMP3 Member=Component J1_TEMP3 (J1) PCC-SMP
+Added Member To Class: ClassName=TEMP4 Member=Component J1_TEMP4 (J1) PCC-SMP
+Added Member To Class: ClassName=TEMP5 Member=Component J1_TEMP5 (J1) PCC-SMP
+Added Member To Class: ClassName=TEMP6 Member=Component J1_TEMP6 (J1) PCC-SMP
+Added Member To Class: ClassName=TEMP7 Member=Component J1_TEMP7 (J1) PCC-SMP
+Added Member To Class: ClassName=TEMP8 Member=Component J1_TEMP8 (J1) PCC-SMP
