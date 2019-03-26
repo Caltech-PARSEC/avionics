@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=SOL_B_inD1 Pin=U4-41
+Removed Pin From Net: NetName=SOL_B_inD2 Pin=U4-42
+Removed Pin From Net: NetName=SOL_B_inD3 Pin=U4-43
+Removed Pin From Net: NetName=ENABLEB1 Pin=U4-44
+Removed Pin From Net: NetName=ENABLEB2 Pin=U4-45
+Removed Pin From Net: NetName=ENABLEB3 Pin=U4-46
+Removed Pin From Net: NetName=ENABLEA1 Pin=U4-47
+Removed Pin From Net: NetName=ENABLEA2 Pin=U4-51
+Removed Pin From Net: NetName=SOL_B_inC1 Pin=U4-52
+Removed Pin From Net: NetName=SOL_B_inC2 Pin=U4-53
+Removed Pin From Net: NetName=SOL_B_inC3 Pin=U4-54
+Removed Pin From Net: NetName=SOL_A_inD1 Pin=U4-55
+Removed Pin From Net: NetName=SOL_A_inD3 Pin=U4-57
+Removed Pin From Net: NetName=SOL_A_inD4 Pin=U4-58
+Removed Pin From Net: NetName=SOL_A_inC1 Pin=U4-59
+Removed Pin From Net: NetName=SOL_A_inC2 Pin=U4-60
+Removed Pin From Net: NetName=SOL_A_inC3 Pin=U4-61
+Removed Pin From Net: NetName=SOL_A_inC4 Pin=U4-62
+Removed Pin From Net: NetName=ENABLEA3 Pin=U4-63
+Removed Pin From Net: NetName=ENABLEA4 Pin=U4-64
+Added Pin To Net: NetName=SOL_A_inD4 Pin=U4-41
+Added Pin To Net: NetName=ENABLEA4 Pin=U4-42
+Added Pin To Net: NetName=SOL_A_inC4 Pin=U4-43
+Added Pin To Net: NetName=SOL_B_inD3 Pin=U4-44
+Added Pin To Net: NetName=ENABLEB3 Pin=U4-45
+Added Pin To Net: NetName=SOL_B_inC3 Pin=U4-46
+Added Pin To Net: NetName=SOL_A_inD3 Pin=U4-47
+Added Pin To Net: NetName=ENABLEA3 Pin=U4-51
+Added Pin To Net: NetName=SOL_A_inC3 Pin=U4-52
+Added Pin To Net: NetName=SOL_B_inD2 Pin=U4-53
+Added Pin To Net: NetName=ENABLEB2 Pin=U4-54
+Added Pin To Net: NetName=SOL_B_inC2 Pin=U4-55
+Added Pin To Net: NetName=ENABLEA2 Pin=U4-57
+Added Pin To Net: NetName=SOL_A_inC2 Pin=U4-58
+Added Pin To Net: NetName=SOL_B_inD1 Pin=U4-59
+Added Pin To Net: NetName=ENABLEB1 Pin=U4-60
+Added Pin To Net: NetName=SOL_B_inC1 Pin=U4-61
+Added Pin To Net: NetName=SOL_A_inD1 Pin=U4-62
+Added Pin To Net: NetName=ENABLEA1 Pin=U4-63
+Added Pin To Net: NetName=SOL_A_inC1 Pin=U4-64
+Change Class Name : Old Net Name=SOL_A_inC[1..5] New Net Name=SOL_A_inC[1..4]
+Change Class Name : Old Net Name=SOL_A_inD[1..5] New Net Name=SOL_A_inD[1..4]
+Change Class Name : Old Net Name=SOL_B_inC[1..5] New Net Name=SOL_B_inC[1..4]
+Change Class Name : Old Net Name=SOL_B_inD[1..5] New Net Name=SOL_B_inD[1..4]
