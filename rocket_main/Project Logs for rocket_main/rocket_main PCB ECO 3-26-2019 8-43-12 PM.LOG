@@ -1,0 +1,16 @@
+Added Component: Designator=P8(Molex KK 4x1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P9(Molex KK 4x1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=DGND Pin=P8-1
+Added Pin To Net: NetName=NetR3_2 Pin=P8-2
+Added Pin To Net: NetName=NetR3_1 Pin=P8-3
+Added Pin To Net: NetName=DGND Pin=P8-4
+Added Pin To Net: NetName=DGND Pin=P9-1
+Added Pin To Net: NetName=NetR3_2 Pin=P9-2
+Added Pin To Net: NetName=NetR3_1 Pin=P9-3
+Added Pin To Net: NetName=DGND Pin=P9-4
+Change Net Name : Old Net Name=NetR3_1 New Net Name=CANL
+Change Net Name : Old Net Name=NetR3_2 New Net Name=CANH
+Added Member To Class: ClassName=rocket_main_micro Member=Component P8 Molex KK 1x4
+Added Member To Class: ClassName=rocket_main_micro Member=Component P9 Molex KK 1x4
