@@ -1,0 +1,90 @@
+Change Component Designator: OldDesignator=C20_TEMP1 NewDesignator=C20_T1
+Change Component Designator: OldDesignator=C20_TEMP2 NewDesignator=C20_T2
+Change Component Designator: OldDesignator=C20_TEMP3 NewDesignator=C20_T3
+Change Component Designator: OldDesignator=C20_TEMP4 NewDesignator=C20_T4
+Change Component Designator: OldDesignator=C20_TEMP5 NewDesignator=C20_T5
+Change Component Designator: OldDesignator=C20_TEMP6 NewDesignator=C20_T6
+Change Component Designator: OldDesignator=C20_TEMP7 NewDesignator=C20_T7
+Change Component Designator: OldDesignator=C20_TEMP8 NewDesignator=C20_T8
+Change Component Designator: OldDesignator=C21_TEMP1 NewDesignator=C21_T1
+Change Component Designator: OldDesignator=C21_TEMP2 NewDesignator=C21_T2
+Change Component Designator: OldDesignator=C21_TEMP3 NewDesignator=C21_T3
+Change Component Designator: OldDesignator=C21_TEMP4 NewDesignator=C21_T4
+Change Component Designator: OldDesignator=C21_TEMP5 NewDesignator=C21_T5
+Change Component Designator: OldDesignator=C21_TEMP6 NewDesignator=C21_T6
+Change Component Designator: OldDesignator=C21_TEMP7 NewDesignator=C21_T7
+Change Component Designator: OldDesignator=C21_TEMP8 NewDesignator=C21_T8
+Change Component Designator: OldDesignator=C22_TEMP1 NewDesignator=C22_T1
+Change Component Designator: OldDesignator=C22_TEMP2 NewDesignator=C22_T2
+Change Component Designator: OldDesignator=C22_TEMP3 NewDesignator=C22_T3
+Change Component Designator: OldDesignator=C22_TEMP4 NewDesignator=C22_T4
+Change Component Designator: OldDesignator=C22_TEMP5 NewDesignator=C22_T5
+Change Component Designator: OldDesignator=C22_TEMP6 NewDesignator=C22_T6
+Change Component Designator: OldDesignator=C22_TEMP7 NewDesignator=C22_T7
+Change Component Designator: OldDesignator=C22_TEMP8 NewDesignator=C22_T8
+Change Component Designator: OldDesignator=C23_TEMP1 NewDesignator=C23_T1
+Change Component Designator: OldDesignator=C23_TEMP2 NewDesignator=C23_T2
+Change Component Designator: OldDesignator=C23_TEMP3 NewDesignator=C23_T3
+Change Component Designator: OldDesignator=C23_TEMP4 NewDesignator=C23_T4
+Change Component Designator: OldDesignator=C23_TEMP5 NewDesignator=C23_T5
+Change Component Designator: OldDesignator=C23_TEMP6 NewDesignator=C23_T6
+Change Component Designator: OldDesignator=C23_TEMP7 NewDesignator=C23_T7
+Change Component Designator: OldDesignator=C23_TEMP8 NewDesignator=C23_T8
+Change Component Designator: OldDesignator=C24_TEMP1 NewDesignator=C24_T1
+Change Component Designator: OldDesignator=C24_TEMP2 NewDesignator=C24_T2
+Change Component Designator: OldDesignator=C24_TEMP3 NewDesignator=C24_T3
+Change Component Designator: OldDesignator=C24_TEMP4 NewDesignator=C24_T4
+Change Component Designator: OldDesignator=C24_TEMP5 NewDesignator=C24_T5
+Change Component Designator: OldDesignator=C24_TEMP6 NewDesignator=C24_T6
+Change Component Designator: OldDesignator=C24_TEMP7 NewDesignator=C24_T7
+Change Component Designator: OldDesignator=C24_TEMP8 NewDesignator=C24_T8
+Change Component Designator: OldDesignator=J1_TEMP1 NewDesignator=J1_T1
+Change Component Designator: OldDesignator=J1_TEMP2 NewDesignator=J1_T2
+Change Component Designator: OldDesignator=J1_TEMP3 NewDesignator=J1_T3
+Change Component Designator: OldDesignator=J1_TEMP4 NewDesignator=J1_T4
+Change Component Designator: OldDesignator=J1_TEMP5 NewDesignator=J1_T5
+Change Component Designator: OldDesignator=J1_TEMP6 NewDesignator=J1_T6
+Change Component Designator: OldDesignator=J1_TEMP7 NewDesignator=J1_T7
+Change Component Designator: OldDesignator=J1_TEMP8 NewDesignator=J1_T8
+Change Component Designator: OldDesignator=U3_TEMP1 NewDesignator=U3_T1
+Change Component Designator: OldDesignator=U3_TEMP2 NewDesignator=U3_T2
+Change Component Designator: OldDesignator=U3_TEMP3 NewDesignator=U3_T3
+Change Component Designator: OldDesignator=U3_TEMP4 NewDesignator=U3_T4
+Change Component Designator: OldDesignator=U3_TEMP5 NewDesignator=U3_T5
+Change Component Designator: OldDesignator=U3_TEMP6 NewDesignator=U3_T6
+Change Component Designator: OldDesignator=U3_TEMP7 NewDesignator=U3_T7
+Change Component Designator: OldDesignator=U3_TEMP8 NewDesignator=U3_T8
+Change Net Name : Old Net Name=NetC20_TEMP1_1 New Net Name=NetC20_T1_1
+Change Net Name : Old Net Name=NetC20_TEMP2_1 New Net Name=NetC20_T2_1
+Change Net Name : Old Net Name=NetC20_TEMP3_1 New Net Name=NetC20_T3_1
+Change Net Name : Old Net Name=NetC20_TEMP4_1 New Net Name=NetC20_T4_1
+Change Net Name : Old Net Name=NetC20_TEMP5_1 New Net Name=NetC20_T5_1
+Change Net Name : Old Net Name=NetC20_TEMP6_1 New Net Name=NetC20_T6_1
+Change Net Name : Old Net Name=NetC20_TEMP7_1 New Net Name=NetC20_T7_1
+Change Net Name : Old Net Name=NetC20_TEMP8_1 New Net Name=NetC20_T8_1
+Change Net Name : Old Net Name=NetC21_TEMP1_2 New Net Name=NetC21_T1_2
+Change Net Name : Old Net Name=NetC21_TEMP2_2 New Net Name=NetC21_T2_2
+Change Net Name : Old Net Name=NetC21_TEMP3_2 New Net Name=NetC21_T3_2
+Change Net Name : Old Net Name=NetC21_TEMP4_2 New Net Name=NetC21_T4_2
+Change Net Name : Old Net Name=NetC21_TEMP5_2 New Net Name=NetC21_T5_2
+Change Net Name : Old Net Name=NetC21_TEMP6_2 New Net Name=NetC21_T6_2
+Change Net Name : Old Net Name=NetC21_TEMP7_2 New Net Name=NetC21_T7_2
+Change Net Name : Old Net Name=NetC21_TEMP8_2 New Net Name=NetC21_T8_2
+Change Class Name : Old Net Name=TEMP1 New Net Name=T1
+Change Class Name : Old Net Name=TEMP2 New Net Name=T2
+Change Class Name : Old Net Name=TEMP3 New Net Name=T3
+Change Class Name : Old Net Name=TEMP4 New Net Name=T4
+Change Class Name : Old Net Name=TEMP5 New Net Name=T5
+Change Class Name : Old Net Name=TEMP6 New Net Name=T6
+Change Class Name : Old Net Name=TEMP7 New Net Name=T7
+Change Class Name : Old Net Name=TEMP8 New Net Name=T8
+Change Room Name: Old Name=TEMP6 New Name=T6
+Change Room Scope: Old Scope=InComponentClass('TEMP6') New Scope=InComponentClass('T6')
+Change Room Name: Old Name=TEMP7 New Name=T7
+Change Room Scope: Old Scope=InComponentClass('TEMP7') New Scope=InComponentClass('T7')
+Added Room: Name=T1
+Added Room: Name=T2
+Added Room: Name=T3
+Added Room: Name=T4
+Added Room: Name=T5
+Added Room: Name=T8

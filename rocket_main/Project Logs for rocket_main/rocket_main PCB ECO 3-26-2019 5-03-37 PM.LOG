@@ -1,0 +1,11 @@
+Added Component: Designator=P7(Molex KK 6x1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=CS9 Pin=P7-1
+Added Pin To Net: NetName=MISO Pin=P7-2
+Added Pin To Net: NetName=MOSI Pin=P7-3
+Added Pin To Net: NetName=CLK Pin=P7-4
+Added Pin To Net: NetName=3V3_DVDD Pin=P7-5
+Added Pin To Net: NetName=GND Pin=P7-6
+Added Net: Name=GND
+Added Class: Name=IMU
+Added Room: Name=IMU
