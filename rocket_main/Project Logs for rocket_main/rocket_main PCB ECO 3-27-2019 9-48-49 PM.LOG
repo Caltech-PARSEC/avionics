@@ -1,0 +1,78 @@
+Added Component: Designator=C26_PT1(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C26_PT2(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C26_PT3(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C26_PT4(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C26_PT5(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C26_PT6(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C27(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C28(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C29(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C30(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C31(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C32(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C33(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADC_IN1 Pin=C26_PT1-1
+Added Pin To Net: NetName=DGND Pin=C26_PT1-2
+Added Pin To Net: NetName=ADC_IN2 Pin=C26_PT2-1
+Added Pin To Net: NetName=DGND Pin=C26_PT2-2
+Added Pin To Net: NetName=ADC_IN3 Pin=C26_PT3-1
+Added Pin To Net: NetName=DGND Pin=C26_PT3-2
+Added Pin To Net: NetName=ADC_IN4 Pin=C26_PT4-1
+Added Pin To Net: NetName=DGND Pin=C26_PT4-2
+Added Pin To Net: NetName=ADC_IN5 Pin=C26_PT5-1
+Added Pin To Net: NetName=DGND Pin=C26_PT5-2
+Added Pin To Net: NetName=ADC_IN6 Pin=C26_PT6-1
+Added Pin To Net: NetName=DGND Pin=C26_PT6-2
+Added Pin To Net: NetName=POT0 Pin=C27-1
+Added Pin To Net: NetName=DGND Pin=C27-2
+Added Pin To Net: NetName=POT1 Pin=C28-1
+Added Pin To Net: NetName=DGND Pin=C28-2
+Added Pin To Net: NetName=POT2 Pin=C29-1
+Added Pin To Net: NetName=DGND Pin=C29-2
+Added Pin To Net: NetName=POT3 Pin=C30-1
+Added Pin To Net: NetName=DGND Pin=C30-2
+Added Pin To Net: NetName=POT4 Pin=C31-1
+Added Pin To Net: NetName=DGND Pin=C31-2
+Added Pin To Net: NetName=POT5 Pin=C32-1
+Added Pin To Net: NetName=DGND Pin=C32-2
+Added Pin To Net: NetName=POT6 Pin=C33-1
+Added Pin To Net: NetName=DGND Pin=C33-2
+Added Member To Class: ClassName=PT1 Member=Component C26_PT1 (C26) 100n
+Added Member To Class: ClassName=PT2 Member=Component C26_PT2 (C26) 100n
+Added Member To Class: ClassName=PT3 Member=Component C26_PT3 (C26) 100n
+Added Member To Class: ClassName=PT4 Member=Component C26_PT4 (C26) 100n
+Added Member To Class: ClassName=PT5 Member=Component C26_PT5 (C26) 100n
+Added Member To Class: ClassName=PT6 Member=Component C26_PT6 (C26) 100n
+Added Member To Class: ClassName=rocket_main_micro Member=Component C27 100n
+Added Member To Class: ClassName=rocket_main_micro Member=Component C28 100n
+Added Member To Class: ClassName=rocket_main_micro Member=Component C29 100n
+Added Member To Class: ClassName=rocket_main_micro Member=Component C30 100n
+Added Member To Class: ClassName=rocket_main_micro Member=Component C31 100n
+Added Member To Class: ClassName=rocket_main_micro Member=Component C32 100n
+Added Member To Class: ClassName=rocket_main_micro Member=Component C33 100n
