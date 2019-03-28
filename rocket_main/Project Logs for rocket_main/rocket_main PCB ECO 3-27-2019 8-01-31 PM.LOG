@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=POWER Member=U4
+Change Component Designator: OldDesignator=U4 NewDesignator=U5
+Added Pin To Net: NetName=POT2 Pin=U4-17
+Added Pin To Net: NetName=POT3 Pin=U4-18
+Added Pin To Net: NetName=POT0 Pin=U4-29
+Added Pin To Net: NetName=POT1 Pin=U4-30
+Added Pin To Net: NetName=POT4 Pin=U4-33
+Added Pin To Net: NetName=POT5 Pin=U4-34
+Added Pin To Net: NetName=POT6 Pin=U4-36
+Added Member To Class: ClassName=POWER Member=Component U5 LM317

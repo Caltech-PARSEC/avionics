@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=POT6 Pin=U4-17
+Removed Pin From Net: NetName=POT5 Pin=U4-18
+Removed Pin From Net: NetName=POT4 Pin=U4-29
+Removed Pin From Net: NetName=POT2 Pin=U4-33
+Removed Pin From Net: NetName=POT1 Pin=U4-34
+Removed Pin From Net: NetName=POT0 Pin=U4-36
+Added Pin To Net: NetName=POT0 Pin=U4-17
+Added Pin To Net: NetName=POT1 Pin=U4-18
+Added Pin To Net: NetName=POT2 Pin=U4-29
+Added Pin To Net: NetName=POT4 Pin=U4-33
+Added Pin To Net: NetName=POT5 Pin=U4-34
+Added Pin To Net: NetName=POT6 Pin=U4-36
+Added Member To Class: ClassName=rocket_main_micro Member=Component P14 Molex KK 1x4
