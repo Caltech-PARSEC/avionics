@@ -1,0 +1,17 @@
+Change Component DesignItemId : Designator=U3_T1 Old DesignItemId=MAXIM TSSOP14 New DesignItemId=
+Change Component DesignItemId : Designator=U3_T2 Old DesignItemId=MAXIM TSSOP14 New DesignItemId=
+Change Component DesignItemId : Designator=U3_T3 Old DesignItemId=MAXIM TSSOP14 New DesignItemId=
+Change Component DesignItemId : Designator=U3_T4 Old DesignItemId=MAXIM TSSOP14 New DesignItemId=
+Change Component DesignItemId : Designator=U3_T5 Old DesignItemId=MAXIM TSSOP14 New DesignItemId=
+Change Component DesignItemId : Designator=U3_T6 Old DesignItemId=MAXIM TSSOP14 New DesignItemId=
+Change Component DesignItemId : Designator=U3_T7 Old DesignItemId=MAXIM TSSOP14 New DesignItemId=
+Change Component DesignItemId : Designator=U3_T8 Old DesignItemId=MAXIM TSSOP14 New DesignItemId=
+Change Component Library : Designator=U3_T1 Old Library=PARSEC.SchLib New Library=PARSEC_TC.SchLib
+Change Component Library : Designator=U3_T2 Old Library=PARSEC.SchLib New Library=PARSEC_TC.SchLib
+Change Component Library : Designator=U3_T3 Old Library=PARSEC.SchLib New Library=PARSEC_TC.SchLib
+Change Component Library : Designator=U3_T4 Old Library=PARSEC.SchLib New Library=PARSEC_TC.SchLib
+Change Component Library : Designator=U3_T5 Old Library=PARSEC.SchLib New Library=PARSEC_TC.SchLib
+Change Component Library : Designator=U3_T6 Old Library=PARSEC.SchLib New Library=PARSEC_TC.SchLib
+Change Component Library : Designator=U3_T7 Old Library=PARSEC.SchLib New Library=PARSEC_TC.SchLib
+Change Component Library : Designator=U3_T8 Old Library=PARSEC.SchLib New Library=PARSEC_TC.SchLib
+Added Member To Class: ClassName=rocket_main_micro Member=Component U4 MC-ARM-STM32F446-LQFP100
