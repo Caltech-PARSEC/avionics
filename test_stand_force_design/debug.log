@@ -21,3 +21,5 @@
 [0209/215457:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [0210/103042:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [0210/143410:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0404/003033:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0404/095246:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.

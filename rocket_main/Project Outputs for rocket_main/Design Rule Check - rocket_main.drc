@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\julli\OneDrive - California Institute of Technology\PARSEC\avionics\rocket_main\rocket_main.PcbDoc
-Date     : 3/31/2019
-Time     : 11:41:00 AM
+Date     : 4/4/2019
+Time     : 10:16:56 AM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -10,10 +10,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C27-2(934.095mil,4545.433mil) on Bottom Layer And Pad U4-99(1008.465mil,4643.346mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U3_T8-14(1984.685mil,5034.567mil) on Top Layer And Via (2028.858mil,5004.567mil) from Top Layer to Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Via (850mil,4550mil) from Top Layer to Bottom Layer And Pad U4-10(927.756mil,4405.157mil) on Top Layer 
-Rule Violations :3
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -27,12 +24,8 @@ Rule Violations :0
 Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (IsVia)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
-   Violation between Hole Size Constraint: (144mil > 100mil) Pad Free-2(150mil,150mil) on Multi-Layer Actual Hole Size = 144mil
-   Violation between Hole Size Constraint: (144mil > 100mil) Pad Free-3(3350mil,150mil) on Multi-Layer Actual Hole Size = 144mil
-   Violation between Hole Size Constraint: (144mil > 100mil) Pad Free-4(3350mil,8500mil) on Multi-Layer Actual Hole Size = 144mil
-   Violation between Hole Size Constraint: (144mil > 100mil) Pad Free-5(150mil,8500mil) on Multi-Layer Actual Hole Size = 144mil
-Rule Violations :4
+Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=144mil) (All)
+Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -78,7 +71,6 @@ Processing Rule : Silk To Solder Mask (Clearance=4mil) (IsPad),(All)
 Rule Violations :20
 
 Processing Rule : Silk to Silk (Clearance=6mil) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (0.046mil < 6mil) Between Text "C1" (3080mil,3930mil) on Top Overlay And Text "D1_VD1" (3230mil,3630mil) on Top Overlay Silk Text to Silk Clearance [0.046mil]
    Violation between Silk To Silk Clearance Constraint: (0.023mil < 6mil) Between Text "C20_T3" (1760mil,6340mil) on Top Overlay And Text "C21_T3" (1680mil,6380mil) on Top Overlay Silk Text to Silk Clearance [0.023mil]
    Violation between Silk To Silk Clearance Constraint: (4.154mil < 6mil) Between Text "C20_T3" (1760mil,6340mil) on Top Overlay And Track (1660mil,6290mil)(1700mil,6330mil) on Top Overlay Silk Text to Silk Clearance [4.154mil]
    Violation between Silk To Silk Clearance Constraint: (3.133mil < 6mil) Between Text "C20_T4" (1236.889mil,6680mil) on Top Overlay And Text "C22_T4" (1320mil,6620mil) on Top Overlay Silk Text to Silk Clearance [3.133mil]
@@ -130,8 +122,6 @@ Processing Rule : Silk to Silk (Clearance=6mil) (All),(All)
    Violation between Silk To Silk Clearance Constraint: (4.707mil < 6mil) Between Text "C24_T6" (1840mil,6340mil) on Top Overlay And Track (1840mil,6329.213mil)(1840.945mil,6329.213mil) on Top Overlay Silk Text to Silk Clearance [4.707mil]
    Violation between Silk To Silk Clearance Constraint: (Collision < 6mil) Between Text "C24_T7" (1870mil,5279.173mil) on Top Overlay And Text "U3_T7" (1880mil,5340mil) on Top Overlay Silk Text to Silk Clearance [0mil]
    Violation between Silk To Silk Clearance Constraint: (0.023mil < 6mil) Between Text "C26_PT1" (930mil,3730mil) on Top Overlay And Text "C26_PT4" (850mil,3920mil) on Top Overlay Silk Text to Silk Clearance [0.023mil]
-   Violation between Silk To Silk Clearance Constraint: (4.772mil < 6mil) Between Text "D1_VD1" (3230mil,3630mil) on Top Overlay And Track (3090.213mil,3618.228mil)(3213.244mil,3618.228mil) on Top Overlay Silk Text to Silk Clearance [4.772mil]
-   Violation between Silk To Silk Clearance Constraint: (4.772mil < 6mil) Between Text "D1_VD1" (3230mil,3630mil) on Top Overlay And Track (3213.244mil,3382.008mil)(3213.244mil,3618.228mil) on Top Overlay Silk Text to Silk Clearance [4.772mil]
    Violation between Silk To Silk Clearance Constraint: (5.008mil < 6mil) Between Text "D1_VD2" (3150mil,2700mil) on Top Overlay And Track (3089.976mil,2451.772mil)(3089.976mil,2687.992mil) on Top Overlay Silk Text to Silk Clearance [5.008mil]
    Violation between Silk To Silk Clearance Constraint: (5.008mil < 6mil) Between Text "D1_VD2" (3150mil,2700mil) on Top Overlay And Track (3089.976mil,2687.992mil)(3213.008mil,2687.992mil) on Top Overlay Silk Text to Silk Clearance [5.008mil]
    Violation between Silk To Silk Clearance Constraint: (5.008mil < 6mil) Between Text "D1_VD3" (3150mil,1750mil) on Top Overlay And Track (3089.976mil,1501.772mil)(3089.976mil,1737.992mil) on Top Overlay Silk Text to Silk Clearance [5.008mil]
@@ -191,7 +181,7 @@ Processing Rule : Silk to Silk (Clearance=6mil) (All),(All)
    Violation between Silk To Silk Clearance Constraint: (3mil < 6mil) Between Text "U3_VD2" (2420mil,2220mil) on Top Overlay And Track (2431mil,2216.5mil)(2431mil,2305.892mil) on Top Overlay Silk Text to Silk Clearance [3mil]
    Violation between Silk To Silk Clearance Constraint: (3mil < 6mil) Between Text "U3_VD3" (2420mil,1280mil) on Top Overlay And Track (2431mil,1276.5mil)(2431mil,1365.892mil) on Top Overlay Silk Text to Silk Clearance [3mil]
    Violation between Silk To Silk Clearance Constraint: (2mil < 6mil) Between Text "U3_VD4" (2420mil,340mil) on Top Overlay And Track (2430mil,336.5mil)(2430mil,425.892mil) on Top Overlay Silk Text to Silk Clearance [2mil]
-Rule Violations :113
+Rule Violations :110
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
@@ -200,6 +190,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 154
+Violations Detected : 144
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
