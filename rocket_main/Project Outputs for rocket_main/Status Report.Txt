@@ -1,0 +1,24 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [rocket_main.PrjPcb]
+   Generated File[rocket_main.GTO]
+   Generated File[rocket_main.GTS]
+   Generated File[rocket_main.GTL]
+   Generated File[rocket_main.G1]
+   Generated File[rocket_main.G2]
+   Generated File[rocket_main.GBL]
+   Generated File[rocket_main.GBS]
+   Generated File[rocket_main.GBO]
+   Generated File[rocket_main.GM1]
+   Generated File[rocket_main.GM13]
+   Generated File[rocket_main.GM15]
+   Generated File[rocket_main.GKO]
+   Generated File[rocket_main.RUL]
+   Generated File[rocket_main.EXTREP]
+   Generated File[rocket_main.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 3:01:12 PM On 4/16/2019

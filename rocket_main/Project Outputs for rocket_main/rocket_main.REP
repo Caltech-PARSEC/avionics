@@ -1,0 +1,235 @@
+*************************************************************
+FileName = rocket_main.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Overlay
+      File : rocket_main.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Mask
+      File : rocket_main.GBS
+
+    Adding Layer      : Bottom Mask
+
+    Adding Layer      : Bottom Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D33
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Top Mask
+      File : rocket_main.GTS
+
+    Adding Layer      : Top Mask
+
+    Adding Layer      : Top Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : rocket_main.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom Copper
+      File : rocket_main.GBL
+
+    Adding Layer      : Bottom Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D46
+    D55
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Signal Layer 2
+      File : rocket_main.G2
+
+    Adding Layer      : Signal Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Signal Layer 1
+      File : rocket_main.G1
+
+    Adding Layer      : Signal Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D60
+    D61
+    D62
+    D63
+    D66
+    D67
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Top Copper
+      File : rocket_main.GTL
+
+    Adding Layer      : Top Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D30
+    D31
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : rocket_main.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D70
+    D71
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : rocket_main.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D15
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : rocket_main.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : rocket_main.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
