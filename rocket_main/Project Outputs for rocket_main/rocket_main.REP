@@ -2,41 +2,6 @@
 FileName = rocket_main.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Overlay
-      File : rocket_main.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Bottom Mask
-      File : rocket_main.GBS
-
-    Adding Layer      : Bottom Mask
-
-    Adding Layer      : Bottom Copper
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D22
-    D33
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-*************************************************************
-
-*************************************************************
 Generating : Top Mask
       File : rocket_main.GTS
 
@@ -75,6 +40,39 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Bottom Copper
+      File : rocket_main.GBL
+
+    Adding Layer      : Bottom Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D46
+    D56
+    D59
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : rocket_main.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
 Generating : Top Overlay
       File : rocket_main.GTO
 
@@ -95,39 +93,16 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Copper
-      File : rocket_main.GBL
+Generating : Mechanical 13
+      File : rocket_main.GM13
 
-    Adding Layer      : Bottom Copper
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 13
 
 
 Used DCodes :
-    D10
-    D46
-    D55
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-*************************************************************
-
-*************************************************************
-Generating : Signal Layer 2
-      File : rocket_main.G2
-
-    Adding Layer      : Signal Layer 2
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
+    D15
+    D69
+    D70
 *************************************************************
 
 *************************************************************
@@ -140,13 +115,25 @@ Generating : Signal Layer 1
 
 
 Used DCodes :
-    D60
+    D59
     D61
     D62
     D63
     D66
     D67
     D68
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : rocket_main.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D16
 *************************************************************
 
 *************************************************************
@@ -201,26 +188,43 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 13
-      File : rocket_main.GM13
+Generating : Signal Layer 2
+      File : rocket_main.G2
 
-    Adding Layer      : Mechanical 13
+    Adding Layer      : Signal Layer 2
 
-
-Used DCodes :
-    D15
-    D69
-    D70
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : rocket_main.GM1
-
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D61
+    D63
+    D64
+    D66
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Bottom Mask
+      File : rocket_main.GBS
+
+    Adding Layer      : Bottom Mask
+
+    Adding Layer      : Bottom Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D34
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
 *************************************************************
 
 *************************************************************
@@ -231,5 +235,6 @@ Generating : Keep-Out Layer
 
 
 Used DCodes :
+    D72
 *************************************************************
 
