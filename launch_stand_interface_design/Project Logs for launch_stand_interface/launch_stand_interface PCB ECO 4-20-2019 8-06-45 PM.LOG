@@ -1,0 +1,94 @@
+Added Component: Designator=C1(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=P1(Molex KK 2x1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P2(Molex KK 2x1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P3(Molex KK 2x1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P4(Molex KK 2x1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P5(Molex KK 2x1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P6(Molex KK 2x1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P7(Molex KK 2x1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "120R"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "240R"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "390 R"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "120R"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOT-23-8)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(D-PAK)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3(SOT-23-8)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3.3V Pin=C1-1
+Added Pin To Net: NetName=3.3V Pin=C2-1
+Added Pin To Net: NetName=3.3V Pin=R2-2
+Added Pin To Net: NetName=3.3V Pin=U1-3
+Added Pin To Net: NetName=3.3V Pin=U2-4
+Added Pin To Net: NetName=3.3V Pin=U3-3
+Added Net: Name=3.3V
+Added Pin To Net: NetName=12V Pin=P1-2
+Added Pin To Net: NetName=12V Pin=P4-2
+Added Pin To Net: NetName=12V Pin=P5-2
+Added Pin To Net: NetName=12V Pin=P6-2
+Added Pin To Net: NetName=12V Pin=U2-3
+Added Net: Name=12V
+Added Pin To Net: NetName=CANH1 Pin=R4-2
+Added Pin To Net: NetName=CANH1 Pin=U3-7
+Added Net: Name=CANH1
+Added Pin To Net: NetName=CANH2 Pin=R1-2
+Added Pin To Net: NetName=CANH2 Pin=U1-7
+Added Net: Name=CANH2
+Added Pin To Net: NetName=CANL1 Pin=R4-1
+Added Pin To Net: NetName=CANL1 Pin=U3-6
+Added Net: Name=CANL1
+Added Pin To Net: NetName=CANL2 Pin=R1-1
+Added Pin To Net: NetName=CANL2 Pin=U1-6
+Added Net: Name=CANL2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Net: Name=GND
+Added Pin To Net: NetName=Net*_1 Pin=P2-1
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=U1-4
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=U1-1
+Added Net: Name=NetP3_2
+Added Pin To Net: NetName=NetP7_1 Pin=P7-1
+Added Pin To Net: NetName=NetP7_1 Pin=U3-4
+Added Net: Name=NetP7_1
+Added Pin To Net: NetName=NetP7_2 Pin=P7-2
+Added Pin To Net: NetName=NetP7_2 Pin=U3-1
+Added Net: Name=NetP7_2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R3-2
+Added Pin To Net: NetName=NetR2_1 Pin=U2-1
+Added Net: Name=NetR2_1
+Added Class: Name=launch_stand_interface
+Added Room: Name=launch_stand_interface
