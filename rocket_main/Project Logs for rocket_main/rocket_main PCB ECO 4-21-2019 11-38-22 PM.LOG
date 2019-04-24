@@ -1,0 +1,78 @@
+Change Component Comment : Designator=C2 Old Comment=0.1uF New Comment=15uF
+Change Component Comment : Designator=C23 Old Comment=0.1uF New Comment=15uF
+Change Component Comment : Designator=C20_VD1 Old Comment=1 uF New Comment=15 uF
+Change Component Comment : Designator=C20_VD2 Old Comment=1 uF New Comment=15 uF
+Change Component Comment : Designator=C20_VD3 Old Comment=1 uF New Comment=15 uF
+Change Component Comment : Designator=C20_VD4 Old Comment=1 uF New Comment=15 uF
+Added Component: Designator=C34(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=C35(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=C36(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=C37(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=R9_VD1(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R9_VD2(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R9_VD3(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R9_VD4(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R10_VD1(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R10_VD2(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R10_VD3(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R10_VD4(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12V_IN Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=+12V_IN Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=+12V_IN Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C36-2
+Added Pin To Net: NetName=+12V_IN Pin=C37-1
+Added Pin To Net: NetName=GND Pin=C37-2
+Added Pin To Net: NetName=GND Pin=R9_VD1-1
+Added Pin To Net: NetName=ENABLEA1 Pin=R9_VD1-2
+Added Pin To Net: NetName=GND Pin=R9_VD2-1
+Added Pin To Net: NetName=ENABLEA2 Pin=R9_VD2-2
+Added Pin To Net: NetName=GND Pin=R9_VD3-1
+Added Pin To Net: NetName=ENABLEA3 Pin=R9_VD3-2
+Added Pin To Net: NetName=GND Pin=R9_VD4-1
+Added Pin To Net: NetName=ENABLEA4 Pin=R9_VD4-2
+Added Pin To Net: NetName=GND Pin=R10_VD1-1
+Added Pin To Net: NetName=ENABLEB1 Pin=R10_VD1-2
+Added Pin To Net: NetName=GND Pin=R10_VD2-1
+Added Pin To Net: NetName=ENABLEB2 Pin=R10_VD2-2
+Added Pin To Net: NetName=GND Pin=R10_VD3-1
+Added Pin To Net: NetName=ENABLEB3 Pin=R10_VD3-2
+Added Pin To Net: NetName=GND Pin=R10_VD4-1
+Added Pin To Net: NetName=ENABLEB4 Pin=R10_VD4-2
+Added Member To Class: ClassName=POWER Member=Component C34 15uF
+Added Member To Class: ClassName=POWER Member=Component C35 15uF
+Added Member To Class: ClassName=POWER Member=Component C36 15uF
+Added Member To Class: ClassName=POWER Member=Component C37 15uF
+Added Member To Class: ClassName=VD1 Member=Component R9_VD1 (R9) 1K
+Added Member To Class: ClassName=VD2 Member=Component R9_VD2 (R9) 1K
+Added Member To Class: ClassName=VD3 Member=Component R9_VD3 (R9) 1K
+Added Member To Class: ClassName=VD4 Member=Component R9_VD4 (R9) 1K
+Added Member To Class: ClassName=VD1 Member=Component R10_VD1 (R10) 1K
+Added Member To Class: ClassName=VD2 Member=Component R10_VD2 (R10) 1K
+Added Member To Class: ClassName=VD3 Member=Component R10_VD3 (R10) 1K
+Added Member To Class: ClassName=VD4 Member=Component R10_VD4 (R10) 1K

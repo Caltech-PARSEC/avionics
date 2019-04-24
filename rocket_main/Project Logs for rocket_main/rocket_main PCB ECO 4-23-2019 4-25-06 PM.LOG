@@ -1,0 +1,13 @@
+Added Component: Designator=P17(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P17-3
+Added Pin To Net: NetName=UART_RX Pin=P17-2
+Added Pin To Net: NetName=UART_RX Pin=U4-79
+Added Net: Name=UART_RX
+Added Pin To Net: NetName=UART_TX Pin=P17-1
+Added Pin To Net: NetName=UART_TX Pin=U4-78
+Added Net: Name=UART_TX
+Added Member To Class: ClassName=rocket_main_micro Member=Component P17 Header 3

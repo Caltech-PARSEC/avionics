@@ -1,0 +1,133 @@
+Change Component DesignItemId : Designator=U3_T1 Old DesignItemId= New DesignItemId=MAXIM TSSOP14
+Change Component DesignItemId : Designator=U3_T2 Old DesignItemId= New DesignItemId=MAXIM TSSOP14
+Change Component DesignItemId : Designator=U3_T3 Old DesignItemId= New DesignItemId=MAXIM TSSOP14
+Change Component DesignItemId : Designator=U3_T4 Old DesignItemId= New DesignItemId=MAXIM TSSOP14
+Change Component DesignItemId : Designator=U3_T5 Old DesignItemId= New DesignItemId=MAXIM TSSOP14
+Change Component DesignItemId : Designator=U3_T6 Old DesignItemId= New DesignItemId=MAXIM TSSOP14
+Change Component DesignItemId : Designator=U3_T7 Old DesignItemId= New DesignItemId=MAXIM TSSOP14
+Change Component DesignItemId : Designator=U3_T8 Old DesignItemId= New DesignItemId=MAXIM TSSOP14
+Change Component Footprint: Designator=P3 Old Footprint=4X1 BREAKAWAY New Footprint=HDR1X4
+Change Component Footprint: Designator=P10 Old Footprint=Molex KK 3x1 New Footprint=Molex KK 4x1
+Change Component Footprint: Designator=P11 Old Footprint=Molex KK 3x1 New Footprint=Molex KK 4x1
+Change Component Footprint: Designator=P12 Old Footprint=Molex KK 3x1 New Footprint=Molex KK 4x1
+Change Component Footprint: Designator=P13 Old Footprint=Molex KK 3x1 New Footprint=Molex KK 4x1
+Change Component Footprint: Designator=P14 Old Footprint=Molex KK 3x1 New Footprint=Molex KK 4x1
+Change Component Footprint: Designator=P15 Old Footprint=Molex KK 3x1 New Footprint=Molex KK 4x1
+Change Component Footprint: Designator=P16 Old Footprint=Molex KK 3x1 New Footprint=Molex KK 4x1
+Change Component Comment : Designator=C2 Old Comment=0.1uF New Comment=15uF
+Change Component Comment : Designator=C23 Old Comment=0.1uF New Comment=15uF
+Change Component Comment : Designator=C20_VD1 Old Comment=1 uF New Comment=15 uF
+Change Component Comment : Designator=C20_VD2 Old Comment=1 uF New Comment=15 uF
+Change Component Comment : Designator=C20_VD3 Old Comment=1 uF New Comment=15 uF
+Change Component Comment : Designator=C20_VD4 Old Comment=1 uF New Comment=15 uF
+Change component parameters: Designator = "C2"; Footprint = "C0805"; UniqueID = "\QYPOXBMU\OPFPIWKX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20_VD1"; Footprint = "C0603"; UniqueID = "\1CAPVTGKY\UADRPJJE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "15 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20_VD2"; Footprint = "C0603"; UniqueID = "\2CAPVTGKY\UADRPJJE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "15 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20_VD3"; Footprint = "C0603"; UniqueID = "\3CAPVTGKY\UADRPJJE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "15 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20_VD4"; Footprint = "C0603"; UniqueID = "\4CAPVTGKY\UADRPJJE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "15 uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23"; Footprint = "C0805"; UniqueID = "\QYPOXBMU\QRGPAXPB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=C34(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=C35(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=C36(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=C37(C0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "15uF"; VariantName = "[No Variations]"
+Added Component: Designator=R9_VD1(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R9_VD2(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R9_VD3(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R9_VD4(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R10_VD1(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R10_VD2(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R10_VD3(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R10_VD4(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12V_IN Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=+12V_IN Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=+12V_IN Pin=C36-1
+Added Pin To Net: NetName=GND Pin=C36-2
+Added Pin To Net: NetName=+12V_IN Pin=C37-1
+Added Pin To Net: NetName=GND Pin=C37-2
+Added Pin To Net: NetName=GND Pin=R9_VD1-1
+Added Pin To Net: NetName=ENABLEA1 Pin=R9_VD1-2
+Added Pin To Net: NetName=GND Pin=R9_VD2-1
+Added Pin To Net: NetName=ENABLEA2 Pin=R9_VD2-2
+Added Pin To Net: NetName=GND Pin=R9_VD3-1
+Added Pin To Net: NetName=ENABLEA3 Pin=R9_VD3-2
+Added Pin To Net: NetName=GND Pin=R9_VD4-1
+Added Pin To Net: NetName=ENABLEA4 Pin=R9_VD4-2
+Added Pin To Net: NetName=GND Pin=R10_VD1-1
+Added Pin To Net: NetName=ENABLEB1 Pin=R10_VD1-2
+Added Pin To Net: NetName=GND Pin=R10_VD2-1
+Added Pin To Net: NetName=ENABLEB2 Pin=R10_VD2-2
+Added Pin To Net: NetName=GND Pin=R10_VD3-1
+Added Pin To Net: NetName=ENABLEB3 Pin=R10_VD3-2
+Added Pin To Net: NetName=GND Pin=R10_VD4-1
+Added Pin To Net: NetName=ENABLEB4 Pin=R10_VD4-2
+Added Member To Class: ClassName=POWER Member=Component C34 15uF
+Added Member To Class: ClassName=POWER Member=Component C35 15uF
+Added Member To Class: ClassName=POWER Member=Component C36 15uF
+Added Member To Class: ClassName=POWER Member=Component C37 15uF
+Added Member To Class: ClassName=VD1 Member=Component R9_VD1 (R9) 1K
+Added Member To Class: ClassName=VD2 Member=Component R9_VD2 (R9) 1K
+Added Member To Class: ClassName=VD3 Member=Component R9_VD3 (R9) 1K
+Added Member To Class: ClassName=VD4 Member=Component R9_VD4 (R9) 1K
+Added Member To Class: ClassName=VD1 Member=Component R10_VD1 (R10) 1K
+Added Member To Class: ClassName=VD2 Member=Component R10_VD2 (R10) 1K
+Added Member To Class: ClassName=VD3 Member=Component R10_VD3 (R10) 1K
+Added Member To Class: ClassName=VD4 Member=Component R10_VD4 (R10) 1K
+Added Room: Name=IMU
+Added Room: Name=POWER
+Added Room: Name=PT1
+Added Room: Name=PT2
+Added Room: Name=PT3
+Added Room: Name=PT4
+Added Room: Name=PT5
+Added Room: Name=PT6
+Added Room: Name=rocket_main_micro
+Added Room: Name=T1
+Added Room: Name=T2
+Added Room: Name=T3
+Added Room: Name=T4
+Added Room: Name=T5
+Added Room: Name=T6
+Added Room: Name=T7
+Added Room: Name=T8
+Added Room: Name=VD1
+Added Room: Name=VD2
+Added Room: Name=VD3
+Added Room: Name=VD4

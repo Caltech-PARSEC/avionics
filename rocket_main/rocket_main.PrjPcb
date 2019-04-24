@@ -106,23 +106,6 @@ GenerateClassCluster=0
 DocumentUniqueId=VSUHKTOA
 
 [Document5]
-DocumentPath=Power.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MFOLWJCU
-
-[Document6]
 DocumentPath=imu.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OOGAGTIY
 
-[Document7]
+[Document6]
 DocumentPath=rocket_main.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NQXKCTBM
 
-[Document8]
+[Document7]
 DocumentPath=libraries\PARSEC(1).PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QDJBYPHI
 
-[Document9]
+[Document8]
 DocumentPath=libraries\PARSEC(1).SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DNBOUFFT
 
-[Document10]
+[Document9]
 DocumentPath=libraries\PARSEC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OXOOPTAV
 
-[Document11]
+[Document10]
 DocumentPath=libraries\PARSEC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -222,9 +205,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FJDRHNFR
+DocumentUniqueId=NIROHLVP
 
-[Document12]
+[Document11]
 DocumentPath=libraries\thermocouple_connector.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OIGLAVPD
 
-[Document13]
+[Document12]
 DocumentPath=libraries\thermocouple_connector.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LYVJNVFW
 
-[Document14]
+[Document13]
 DocumentPath=libraries\valve_module.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XFOEVYDF
 
-[Document15]
+[Document14]
 DocumentPath=Power_Schematic.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DIYRJRLY
 
-[Document16]
+[Document15]
 DocumentPath=rocket_main.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NMJWIGFE
 
-[Document17]
+[Document16]
 DocumentPath=libraries\PARSEC_TC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ONDYTFSP
 
-[Document18]
+[Document17]
 DocumentPath=libraries\PARSEC_TC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -341,9 +324,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ETVMEWNB
+DocumentUniqueId=FJDRHNFR
 
-[Document19]
+[Document18]
 DocumentPath=altiumlogo.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -359,40 +342,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WKRMPDEE
-
-[Document20]
-DocumentPath=CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document21]
-DocumentPath=Gerber.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for rocket_main\Design Rule Check - rocket_main.html
@@ -771,6 +720,18 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateRevisionGuid=|BatchMode=2|FormWidth=1512|FormHeight=975|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 OutputType2=ComponentCrossReference
 OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
@@ -1437,6 +1398,162 @@ NetClassSeparateForBusSections=0
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
+ComponentLibIdentifierKind0=Any
+ComponentLibraryIdentifier0=
+ComponentDesignItemID0=Molex KK 1x2
+ComponentSymbolReference0=Molex KK 1x2
+ComponentUpdate0=0
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Any
+ComponentLibraryIdentifier1=
+ComponentDesignItemID1=R0805
+ComponentSymbolReference1=R0805
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=Copy of PARSEC.SchLib
+ComponentDesignItemID2=LM317
+ComponentSymbolReference2=LM317
+ComponentUpdate2=0
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=Miscellaneous Connectors.IntLib
+ComponentDesignItemID3=Header 4
+ComponentSymbolReference3=Header 4
+ComponentUpdate3=0
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=PARSEC(1).SchLib
+ComponentDesignItemID4=L298P013TR
+ComponentSymbolReference4=L298P013TR
+ComponentUpdate4=0
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=PARSEC(1).SchLib
+ComponentDesignItemID5=R0805
+ComponentSymbolReference5=R0805
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=PARSEC.SchLib
+ComponentDesignItemID6=824501141
+ComponentSymbolReference6=824501141
+ComponentUpdate6=0
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=PARSEC.SchLib
+ComponentDesignItemID7=C0603
+ComponentSymbolReference7=C0603
+ComponentUpdate7=0
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=PARSEC.SchLib
+ComponentDesignItemID8=C0805
+ComponentSymbolReference8=C0805
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=PARSEC.SchLib
+ComponentDesignItemID9=FERRITE
+ComponentSymbolReference9=FERRITE
+ComponentUpdate9=0
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=PARSEC.SchLib
+ComponentDesignItemID10=LED
+ComponentSymbolReference10=LED
+ComponentUpdate10=0
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=PARSEC.SchLib
+ComponentDesignItemID11=LM317
+ComponentSymbolReference11=LM317
+ComponentUpdate11=0
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=PARSEC.SchLib
+ComponentDesignItemID12=MC-ARM-STM32F446-LQFP100
+ComponentSymbolReference12=MC-ARM-STM32F446-LQFP100
+ComponentUpdate12=0
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=PARSEC.SchLib
+ComponentDesignItemID13=Molex KK 1x2
+ComponentSymbolReference13=Molex KK 1x2
+ComponentUpdate13=0
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=PARSEC.SchLib
+ComponentDesignItemID14=Molex KK 1x4
+ComponentSymbolReference14=Molex KK 1x4
+ComponentUpdate14=0
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name And Type
+ComponentLibraryIdentifier15=PARSEC.SchLib
+ComponentDesignItemID15=Molex KK 1x6
+ComponentSymbolReference15=Molex KK 1x6
+ComponentUpdate15=0
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name And Type
+ComponentLibraryIdentifier16=PARSEC.SchLib
+ComponentDesignItemID16=PUSHBUTTON
+ComponentSymbolReference16=PUSHBUTTON
+ComponentUpdate16=0
+ComponentIsDeviceSheet16=0
+ComponentLibIdentifierKind17=Library Name And Type
+ComponentLibraryIdentifier17=PARSEC.SchLib
+ComponentDesignItemID17=R0805
+ComponentSymbolReference17=R0805
+ComponentUpdate17=1
+ComponentIsDeviceSheet17=0
+ComponentLibIdentifierKind18=Library Name And Type
+ComponentLibraryIdentifier18=PARSEC.SchLib
+ComponentDesignItemID18=TCAN332DCNT
+ComponentSymbolReference18=TCAN332DCNT
+ComponentUpdate18=0
+ComponentIsDeviceSheet18=0
+ComponentLibIdentifierKind19=Library Name And Type
+ComponentLibraryIdentifier19=PARSEC_TC.SchLib
+ComponentDesignItemID19=MAXIM TSSOP14
+ComponentSymbolReference19=MAXIM TSSOP14
+ComponentUpdate19=0
+ComponentIsDeviceSheet19=0
+ComponentLibIdentifierKind20=Library Name And Type
+ComponentLibraryIdentifier20=PARSEC1.SchLib
+ComponentDesignItemID20=C0805
+ComponentSymbolReference20=C0805
+ComponentUpdate20=1
+ComponentIsDeviceSheet20=0
+ComponentLibIdentifierKind21=Library Name And Type
+ComponentLibraryIdentifier21=PARSEC1.SchLib
+ComponentDesignItemID21=CSTCE8M00
+ComponentSymbolReference21=CSTCE8M00
+ComponentUpdate21=0
+ComponentIsDeviceSheet21=0
+ComponentLibIdentifierKind22=Library Name And Type
+ComponentLibraryIdentifier22=PARSEC1.SchLib
+ComponentDesignItemID22=FERRITE
+ComponentSymbolReference22=FERRITE
+ComponentUpdate22=0
+ComponentIsDeviceSheet22=0
+ComponentLibIdentifierKind23=Library Name And Type
+ComponentLibraryIdentifier23=PARSEC1.SchLib
+ComponentDesignItemID23=MC-ARM-STM32F446-LQFP100
+ComponentSymbolReference23=MC-ARM-STM32F446-LQFP100
+ComponentUpdate23=0
+ComponentIsDeviceSheet23=0
+ComponentLibIdentifierKind24=Library Name And Type
+ComponentLibraryIdentifier24=PARSEC1.SchLib
+ComponentDesignItemID24=R0805
+ComponentSymbolReference24=R0805
+ComponentUpdate24=1
+ComponentIsDeviceSheet24=0
+ComponentLibIdentifierKind25=Library Name And Type
+ComponentLibraryIdentifier25=thermocouple_connector.SchLib
+ComponentDesignItemID25=PCC-SMP
+ComponentSymbolReference25=PCC-SMP
+ComponentUpdate25=0
+ComponentIsDeviceSheet25=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1450,6 +1567,105 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Built_By
+ParameterUpdate0=1
+ParameterName1=C
+ParameterUpdate1=1
+ParameterName2=Comment
+ParameterUpdate2=1
+ParameterName3=Component Kind
+ParameterUpdate3=1
+ParameterName4=Description
+ParameterUpdate4=1
+ParameterName5=LatestRevisionDate
+ParameterUpdate5=1
+ParameterName6=LatestRevisionNote
+ParameterUpdate6=1
+ParameterName7=Library Reference
+ParameterUpdate7=1
+ParameterName8=Manufacturer
+ParameterUpdate8=1
+ParameterName9=Manufacturer Part Number
+ParameterUpdate9=1
+ParameterName10=Manufacturer_Part_Number
+ParameterUpdate10=1
+ParameterName11=Publisher
+ParameterUpdate11=1
+ParameterName12=Reel
+ParameterUpdate12=1
+ParameterName13=RefDes
+ParameterUpdate13=1
+ParameterName14=Supplier 1
+ParameterUpdate14=1
+ParameterName15=Supplier Part Number 1
+ParameterUpdate15=1
+ParameterName16=Type
+ParameterUpdate16=1
+ParameterName17=Value
+ParameterUpdate17=1
+ParameterName18=Vendor
+ParameterUpdate18=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=0805LED
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=8MHz Ceramic Resonator
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=C0603
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=C0805
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=DIODE-SMA
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=D-PAK
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=HDR1X4
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=MAXIM TSSOP14
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=Molex KK 2x1
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=Molex KK 4x1
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=Molex KK 6x1
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=PCC-SMP
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=PowerSO-20
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=PUSHBUTTON
+ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=R0603
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=R0805
+ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=SOT-23-8
+ModelUpdate16=1
+ModelType17=PCBLIB
+ModelName17=STM-LQFP100_N
+ModelUpdate17=1
+ModelTypeGroup1=SI
+ModelTypeUpdate1=1
+ModelType18=SI
+ModelName18=Connector
+ModelUpdate18=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
