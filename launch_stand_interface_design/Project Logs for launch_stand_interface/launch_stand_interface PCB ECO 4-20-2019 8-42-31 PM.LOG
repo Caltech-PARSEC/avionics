@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=CANL2 Pin=P8-1
+Removed Pin From Net: NetName=CANH2 Pin=P8-2
+Removed Pin From Net: NetName=CANL1 Pin=P9-1
+Removed Pin From Net: NetName=CANH1 Pin=P9-2
+Added Pin To Net: NetName=CANH2 Pin=P8-1
+Added Pin To Net: NetName=CANL2 Pin=P8-2
+Added Pin To Net: NetName=CANH1 Pin=P9-1
+Added Pin To Net: NetName=CANL1 Pin=P9-2
+Added Room: Name=launch_stand_interface
