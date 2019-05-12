@@ -1,0 +1,14 @@
+Added Component: Designator=(24-pin-atx)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=12V Pin=-3
+Added Pin To Net: NetName=GND Pin=-6
+Added Pin To Net: NetName=GND Pin=-8
+Added Pin To Net: NetName=GND Pin=-10
+Added Pin To Net: NetName=GND Pin=-13
+Added Pin To Net: NetName=GND Pin=-18
+Added Pin To Net: NetName=GND Pin=-19
+Added Pin To Net: NetName=GND Pin=-20
+Added Pin To Net: NetName=GND Pin=-21
+Added Pin To Net: NetName=GND Pin=-22
+Added Member To Class: ClassName=launch_stand_interface Member=Component  24-pin-atx
+Added Room: Name=launch_stand_interface
