@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=P6-1
+Removed Pin From Net: NetName=12V Pin=P6-2
+Added Component: Designator=P1(Molex KK 2x1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P6(Molex KK 2x1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P12(Molex KK 2x1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=12V Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=12V Pin=P6-2
+Added Pin To Net: NetName=GND Pin=P12-1
+Added Pin To Net: NetName=12V Pin=P12-2
+Added Member To Class: ClassName=launch_stand_interface Member=Component P1 Molex KK 1x2
+Added Member To Class: ClassName=launch_stand_interface Member=Component P12 Molex KK 1x2

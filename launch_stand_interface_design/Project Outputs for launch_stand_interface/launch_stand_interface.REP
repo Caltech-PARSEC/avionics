@@ -1,0 +1,163 @@
+*************************************************************
+FileName = launch_stand_interface.GBR
+AutoAperture = True
+*************************************************************
+Generating : Keep-Out Layer
+      File : launch_stand_interface.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : launch_stand_interface.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : launch_stand_interface.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : launch_stand_interface.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : launch_stand_interface.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : launch_stand_interface.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : launch_stand_interface.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : launch_stand_interface.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D12
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : launch_stand_interface.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : launch_stand_interface.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
