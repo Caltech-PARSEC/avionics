@@ -113,17 +113,18 @@ int main(void)
 
   while (1)
   {
-
+	// Enable the ADC and start conversion
 	HAL_ADC_Start(&hadc1);
+
+	// Poll each of the force transducer outputs
 	HAL_ADC_PollForConversion(&hadc1, HAL_MAX_DELAY);
 	int CONV_1_MON = HAL_ADC_GetValue(&hadc1);
-	HAL_ADC_Start(&hadc1);
 	HAL_ADC_PollForConversion(&hadc1, HAL_MAX_DELAY);
 	int CONV_2_MON = HAL_ADC_GetValue(&hadc1);
-	HAL_ADC_Start(&hadc1);
 	HAL_ADC_PollForConversion(&hadc1, HAL_MAX_DELAY);
 	int CONV_3_MON = HAL_ADC_GetValue(&hadc1);
 
+	// Disables the ADC and stop conversion
 	HAL_ADC_Stop(&hadc1);
 
 	HAL_Delay(10);
