@@ -51,12 +51,16 @@ CAN_HandleTypeDef hcan1;
 /* CAN1 init function */
 void MX_CAN1_Init(void)
 {
-
+  // These settings should make the CAN bus run at 500 kb/s with a
+  // sample point at 86.7%. Each bit will contain a total of 15 time
+  // quanta. The value of the BTR register corresponding to these
+  // settings should be 0x001b0005. Values calculated using the
+  // calculator http://www.bittiming.can-wiki.info/.
   hcan1.Instance = CAN1;
-  hcan1.Init.Prescaler = 21;
+  hcan1.Init.Prescaler = 5;
   hcan1.Init.Mode = CAN_MODE_NORMAL;
-  hcan1.Init.SJW = CAN_SJW_1TQ;
-  hcan1.Init.BS1 = CAN_BS1_2TQ;
+  hcan1.Init.SJW = CAN_SJW_4TQ;
+  hcan1.Init.BS1 = CAN_BS1_12TQ;
   hcan1.Init.BS2 = CAN_BS2_2TQ;
   hcan1.Init.TTCM = DISABLE;
   hcan1.Init.ABOM = DISABLE;
