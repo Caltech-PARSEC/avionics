@@ -1,9 +1,0 @@
-Added Pin To Net: NetName=NetD1_PA1_1 Pin=D1_PA1-A
-Added Pin To Net: NetName=VOUT_3.3V Pin=D1_PA1-K
-Added Pin To Net: NetName=NetD1_PA2_1 Pin=D1_PA2-A
-Added Pin To Net: NetName=VOUT_3.3V Pin=D1_PA2-K
-Added Pin To Net: NetName=NetD1_PA3_1 Pin=D1_PA3-A
-Added Pin To Net: NetName=VOUT_3.3V Pin=D1_PA3-K
-Change Net Name : Old Net Name=NetD1_PA1_1 New Net Name=NetD1_PA1_A
-Change Net Name : Old Net Name=NetD1_PA2_1 New Net Name=NetD1_PA2_A
-Change Net Name : Old Net Name=NetD1_PA3_1 New Net Name=NetD1_PA3_A

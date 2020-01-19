@@ -1,5 +1,0 @@
-Record=TopLevelDocument|FileName=micro_schematic.SchDoc
-Record=SheetSymbol|SourceDocument=micro_schematic.SchDoc|Designator=PA1|SchDesignator=PA1|FileName=power_amp_module.SchDoc|SymbolType=Normal|RawFileName=power_amp_module.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=micro_schematic.SchDoc|Designator=PA2|SchDesignator=PA2|FileName=power_amp_module.SchDoc|SymbolType=Normal|RawFileName=power_amp_module.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=micro_schematic.SchDoc|Designator=PA3|SchDesignator=PA3|FileName=power_amp_module.SchDoc|SymbolType=Normal|RawFileName=power_amp_module.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=micro_schematic.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
