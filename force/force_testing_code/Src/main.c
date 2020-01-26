@@ -120,7 +120,8 @@ int main(void)
 	HAL_ADC_PollForConversion(&hadc1, HAL_MAX_DELAY);
 	int CONV_3_MON = HAL_ADC_GetValue(&hadc1);
 
-
+	// print statements keep the compiler from optimizing outs the CONV_n_MON
+	// variables, so we can see them in the debugger.
 	if (CONV_1_MON == 4095) {printf("Maxed out ADC1/n");}
 	if (CONV_2_MON == 4095) {printf("Maxed out ADC2/n");}
 	if (CONV_3_MON == 4095) {printf("Maxed out ADC3/n");}

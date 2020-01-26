@@ -40,7 +40,6 @@
 #include "main.h"
 #include "stm32f4xx_hal.h"
 #include "adc.h"
-#include "can.h"
 #include "gpio.h"
 
 /* USER CODE BEGIN Includes */
@@ -96,15 +95,14 @@ int main(void)
   /* Initialize all configured peripherals */
   MX_GPIO_Init();
   MX_ADC1_Init();
-  MX_CAN1_Init();
   /* USER CODE BEGIN 2 */
 
-  int avgLoadConv1 = 0;
-  int avgLoadConv2 = 0;
-  int avgLoadConv3 = 0;
+  static int avgLoadConv1 = 0;
+  static int avgLoadConv2 = 0;
+  static int avgLoadConv3 = 0;
 
-  const int numSamples = 512;	// number of samples per average
-  const int sampleDelay = 10;	// milliseconds between samples
+  const int numSamples = 2048;	// number of samples per average
+  const int sampleDelay = 1;	// milliseconds between samples
 
   /* USER CODE END 2 */
 
@@ -123,7 +121,7 @@ int main(void)
 
 	// Request numSamples conversion from each load cell, and
 	// add the result to its respective running sum.
-	for (i = numSamples; i > 0; i--)
+	for (int i = numSamples; i > 0; i--)
 	{
 		HAL_ADC_Start(&hadc1);
 		HAL_ADC_PollForConversion(&hadc1, HAL_MAX_DELAY);
@@ -145,7 +143,7 @@ int main(void)
 	avgLoadConv2 = avgLoadConv2 / numSamples;
 	avgLoadConv3 = avgLoadConv3 / numSamples;
 
-	HAL_Delay(10);
+	HAL_Delay(3);
   }
   /* USER CODE END 3 */
 

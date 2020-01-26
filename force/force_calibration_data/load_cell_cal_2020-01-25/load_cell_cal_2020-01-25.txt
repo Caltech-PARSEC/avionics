@@ -1,0 +1,29 @@
+The csv with the same file name contains calibration data for PARSEC's load 
+cells, as driven by the following hardware:
+
+	* 10 V rail from a LM317 linear regulator, outputting 10.20 V when under
+	  load from all three load cells (each is a 350 ohm wheatstone bridge).
+	  It's input was +-12 V from an ATX power supply.
+
+	* The forse [sic] sensor board designed in 2018 by Christine Yu and
+	  Alexi Garcia. It is based on an STM32F446VE microcontroller with
+	  12 bit ADCs. The load cell exitation is scaled to 3.3 V by an
+	  INA-125 instrumentation amplifier.
+
+	* Dumbells from the Caltech gym were used to apply known amounts of force.
+
+	* Tension measurements were performed by tying a loop around a pullup
+	  bar and hooking the load cell into it, and made a loop to hang from the
+	  other end of the load cell to hang dumbells from. The 50 and 100 pound
+	  dumbells (the kind used for bicep curls) were used.
+
+	* Compression measurements were performed by trying to place dumbells
+	  on top of the load cell sitting on the ground. Getting it to balance
+	  with any type of dumbell was difficult.
+
+The measurements were taken on 25 Jan 2020.
+
+These measurements were taken after a round of debugging on the force board
+in which a cold solder joint was fixed on PA1, and a -12 V rail was run to the
+negative supply pins on all INA-125 chips, fixing the non-linearity and
+inability to amplify negative voltage (compression) signals properly.
