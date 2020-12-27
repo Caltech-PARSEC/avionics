@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=valves.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=valves.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Power.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=valves.SchDoc|Designator=RValve|SchDesignator=RValve|FileName=Valve1.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Valve1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=valves.SchDoc|Designator=RValve|SchDesignator=RValve|FileName=Valve3.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Valve3.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=valves.SchDoc|Designator=RValve|SchDesignator=RValve|FileName=Valve2.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Valve2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
