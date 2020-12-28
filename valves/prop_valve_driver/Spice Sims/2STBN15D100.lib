@@ -1,0 +1,108 @@
+*****************************************************************
+******STMicroelectronics MOSFET, IGBT and Bipolar Library *******
+*****************************************************************
+*																*
+* Models provided by STMicroelectronics are not guaranteed to   *
+* fully represent all the specifications and operating			*
+* characteristics of the product behavior that they reproduce.  *
+* The model describes the characteristics of a typical device.  *
+* In all cases, the current product data sheet contains all     *
+* information to be used like final design guidelines and the   *
+* only actual performance specification.                        *
+* Altough models can be a useful tool in evaluating device      *
+* performance, they cannot model exact device performance under *
+* all conditions.												*
+* STMicroelectronics therefore does not assume any              *
+* responsibility arising from their use.                        *
+* STMicroelectronics reserves the right to change models 	    *
+* without prior notice.                                         *
+*                                                               *
+*****************************************************************
+
+.SUBCKT 2STBN15D100 1 2 3
+ 
+QDRV 1 2 4 QDRV
+ 
+QFIN 1 4 3 QFIN
+ 
+DR 3 1 DR
+ 
+R1 2 4 8000
+ 
+R2 4 3 150
+ 
+.MODEL QDRV NPN
++Is    = 0.404E-15
++Bf    = 179.376
++Vaf   = 54.144
++Ikf   = 8.419
++Ise   = 0.341E-12
++Ne    = 1.979
++Br    = 1.169
++Var   = 60.3582
++Ikr   = 0.923E-01
++Isc   = 0.176E-13
++Nc    = 1.231
++Nk    = 0.985
++Rb    = 0.714
++Rbm   = 0.984E-01
++Nf    = 1.003
++Re    = 0.154
++Rc    = 0.867E-02
++Qco   = 0.222E-09
++Rco   = 0.387
++Vo    = 25.067
++Gamma = 0.543E-09
++Cjc   = 0.546E-10
++Vjc   = 0.804
++Mjc   = 0.461
++Cje   = 0.629E-09
++Vje   = 0.643
++Mje   = 0.329
++Fc    = 0.551
++Tr    = 0.417E-07
++Tf    = 0.668E-08
++Itf   = 0.444
++Vtf   = 21.551
++Xtf   = 0.907
+ 
+.MODEL QFIN NPN
++Is    = 0.156E-13
++Bf    = 178.354
++Vaf   = 50.595
++Ikf   = 6.441
++Ise   = 0.626E-14
++Ne    = 1.981
++Br    = 1.372
++Var   = 58.874
++Ikr   = 0.137
++Isc   = 0.106E-14
++Nc    = 1.799
++Nk    = 0.717
++Rb    = 2.101
++Rbm   = 0.994E-01
++Nf    = 0.995
++Re    = 0.221E-01
++Rc    = 0.173
++Qco   = 0.278E-10
++Rco   = 0.318
++Vo    = 23.891
++Gamma = 0.224E-09
++Cjc   = 0.552E-13
++Vjc   = 0.608
++Mjc   = 0.377
++Cje   = 0.321E-12
++Vje   = 0.613
++Mje   = 0.325
++Fc    = 0.599
++Tr    = 0.321E-07
++Tf    = 0.439E-08
++Itf   = 0.738
++Vtf   = 2.031
++Xtf   = 1.309
+ 
+.MODEL DR D
++IS=1E-16
++BV=100
+ 
+.ENDS 2STBN15D100
