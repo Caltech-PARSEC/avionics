@@ -1,0 +1,150 @@
+Added Component: Designator=D1_SecondValve(DO-35)
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D1_ThirdValve(DO-35)
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J5_SecondValve(MOLEX_436500200 - duplicate)
+Added Component: Designator=J5_ThirdValve(MOLEX_436500200 - duplicate)
+Added Component: Designator=Q1_SecondValve(D2PAK)
+Add component (AddParameter): Name = "DC Gain"; Value = "750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "2STBN15D100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "497-10113-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Q1_ThirdValve(D2PAK)
+Add component (AddParameter): Name = "DC Gain"; Value = "750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "2STBN15D100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "497-10113-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=Q2_SecondValve(TRANS_RK7002BMHZG_ROM)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Matt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RK7002BMT116"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Rohm_2019-09-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "ROHM Semiconductor"; VariantName = "[No Variations]"
+Added Component: Designator=Q2_ThirdValve(TRANS_RK7002BMHZG_ROM)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Matt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RK7002BMT116"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Rohm_2019-09-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "ROHM Semiconductor"; VariantName = "[No Variations]"
+Added Component: Designator=R3_SecondValve(R0402_low_density)
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4m"; VariantName = "[No Variations]"
+Added Component: Designator=R3_ThirdValve(R0402_low_density)
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4m"; VariantName = "[No Variations]"
+Added Component: Designator=R4_SecondValve(R0402_low_density)
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "91R"; VariantName = "[No Variations]"
+Added Component: Designator=R4_ThirdValve(R0402_low_density)
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.25 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "91R"; VariantName = "[No Variations]"
+Added Component: Designator=R5_SecondValve(R0402_low_density)
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.125 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R5_ThirdValve(R0402_low_density)
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.125 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R6_SecondValve(R0402_low_density)
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.125 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R6_ThirdValve(R0402_low_density)
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.125 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=U3_SecondValve(INA240A3D)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-48839-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U3_ThirdValve(INA240A3D)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-48839-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_SecondValve_1 Pin=D1_SecondValve-1
+Added Pin To Net: NetName=AMP_IN+_FirstValve Pin=D1_SecondValve-2
+Added Pin To Net: NetName=NetD1_ThirdValve_1 Pin=D1_ThirdValve-1
+Added Pin To Net: NetName=AMP_IN+_FirstValve Pin=D1_ThirdValve-2
+Added Pin To Net: NetName=AMP_IN-_SecondValve Pin=J5_SecondValve-1
+Added Pin To Net: NetName=NetD1_SecondValve_1 Pin=J5_SecondValve-2
+Added Pin To Net: NetName=AMP_IN-_ThirdValve Pin=J5_ThirdValve-1
+Added Pin To Net: NetName=NetD1_ThirdValve_1 Pin=J5_ThirdValve-2
+Added Pin To Net: NetName=NetD1_SecondValve_1 Pin=Q1_SecondValve-1
+Added Pin To Net: NetName=NetQ1_SecondValve_2 Pin=Q1_SecondValve-2
+Added Pin To Net: NetName=MGND Pin=Q1_SecondValve-3
+Added Pin To Net: NetName=NetD1_ThirdValve_1 Pin=Q1_ThirdValve-1
+Added Pin To Net: NetName=NetQ1_ThirdValve_2 Pin=Q1_ThirdValve-2
+Added Pin To Net: NetName=MGND Pin=Q1_ThirdValve-3
+Added Pin To Net: NetName=DGND Pin=Q2_SecondValve-1
+Added Pin To Net: NetName=NetQ2_SecondValve_2 Pin=Q2_SecondValve-2
+Added Pin To Net: NetName=NetQ1_SecondValve_2 Pin=Q2_SecondValve-3
+Added Pin To Net: NetName=DGND Pin=Q2_ThirdValve-1
+Added Pin To Net: NetName=NetQ2_ThirdValve_2 Pin=Q2_ThirdValve-2
+Added Pin To Net: NetName=NetQ1_ThirdValve_2 Pin=Q2_ThirdValve-3
+Added Pin To Net: NetName=AMP_IN+_FirstValve Pin=R3_SecondValve-1
+Added Pin To Net: NetName=AMP_IN-_SecondValve Pin=R3_SecondValve-2
+Added Pin To Net: NetName=AMP_IN+_FirstValve Pin=R3_ThirdValve-1
+Added Pin To Net: NetName=AMP_IN-_ThirdValve Pin=R3_ThirdValve-2
+Added Pin To Net: NetName=3V3D Pin=R4_SecondValve-1
+Added Pin To Net: NetName=NetQ1_SecondValve_2 Pin=R4_SecondValve-2
+Added Pin To Net: NetName=3V3D Pin=R4_ThirdValve-1
+Added Pin To Net: NetName=NetQ1_ThirdValve_2 Pin=R4_ThirdValve-2
+Added Pin To Net: NetName=3V3D Pin=R5_SecondValve-1
+Added Pin To Net: NetName=NetQ2_SecondValve_2 Pin=R5_SecondValve-2
+Added Pin To Net: NetName=3V3D Pin=R5_ThirdValve-1
+Added Pin To Net: NetName=NetQ2_ThirdValve_2 Pin=R5_ThirdValve-2
+Added Pin To Net: NetName=NetQ2_SecondValve_2 Pin=R6_SecondValve-1
+Added Pin To Net: NetName=Val2_PWM Pin=R6_SecondValve-2
+Added Pin To Net: NetName=NetQ2_ThirdValve_2 Pin=R6_ThirdValve-1
+Added Pin To Net: NetName=Val3_PWM Pin=R6_ThirdValve-2
+Added Pin To Net: NetName=AMP_IN-_SecondValve Pin=U3_SecondValve-1
+Added Pin To Net: NetName=AGND Pin=U3_SecondValve-2
+Added Pin To Net: NetName=AGND Pin=U3_SecondValve-3
+Added Pin To Net: NetName=Val2_Sense Pin=U3_SecondValve-5
+Added Pin To Net: NetName=3V3A Pin=U3_SecondValve-6
+Added Pin To Net: NetName=AGND Pin=U3_SecondValve-7
+Added Pin To Net: NetName=AMP_IN+_FirstValve Pin=U3_SecondValve-8
+Added Pin To Net: NetName=AMP_IN-_ThirdValve Pin=U3_ThirdValve-1
+Added Pin To Net: NetName=AGND Pin=U3_ThirdValve-2
+Added Pin To Net: NetName=AGND Pin=U3_ThirdValve-3
+Added Pin To Net: NetName=Val3_Sense Pin=U3_ThirdValve-5
+Added Pin To Net: NetName=3V3A Pin=U3_ThirdValve-6
+Added Pin To Net: NetName=AGND Pin=U3_ThirdValve-7
+Added Pin To Net: NetName=AMP_IN+_FirstValve Pin=U3_ThirdValve-8
+Added Member To Class: ClassName=SecondValve Member=Component D1_SecondValve (D1)
+Added Member To Class: ClassName=ThirdValve Member=Component D1_ThirdValve (D1)
+Added Member To Class: ClassName=SecondValve Member=Component J5_SecondValve (J5) Valve
+Added Member To Class: ClassName=ThirdValve Member=Component J5_ThirdValve (J5) Valve
+Added Member To Class: ClassName=SecondValve Member=Component Q1_SecondValve (Q1) 2STBN15D100
+Added Member To Class: ClassName=ThirdValve Member=Component Q1_ThirdValve (Q1) 2STBN15D100
+Added Member To Class: ClassName=SecondValve Member=Component Q2_SecondValve (Q2) RK7002BMT116
+Added Member To Class: ClassName=ThirdValve Member=Component Q2_ThirdValve (Q2) RK7002BMT116
+Added Member To Class: ClassName=SecondValve Member=Component R3_SecondValve (R3) ResChip
+Added Member To Class: ClassName=ThirdValve Member=Component R3_ThirdValve (R3) ResChip
+Added Member To Class: ClassName=SecondValve Member=Component R4_SecondValve (R4) ResChip
+Added Member To Class: ClassName=ThirdValve Member=Component R4_ThirdValve (R4) ResChip
+Added Member To Class: ClassName=SecondValve Member=Component R5_SecondValve (R5) ResChip
+Added Member To Class: ClassName=ThirdValve Member=Component R5_ThirdValve (R5) ResChip
+Added Member To Class: ClassName=SecondValve Member=Component R6_SecondValve (R6) ResChip
+Added Member To Class: ClassName=ThirdValve Member=Component R6_ThirdValve (R6) ResChip
+Added Member To Class: ClassName=SecondValve Member=Component U3_SecondValve (U3) INA240A3D
+Added Member To Class: ClassName=ThirdValve Member=Component U3_ThirdValve (U3) INA240A3D
+Added Room: Name=SecondValve
+Added Room: Name=ThirdValve

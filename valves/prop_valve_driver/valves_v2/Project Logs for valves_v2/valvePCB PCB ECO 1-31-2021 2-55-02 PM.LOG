@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetD1_FirstValve_1 Pin=D1_FirstValve-1
+Added Pin To Net: NetName=AMP_IN+_FirstValve Pin=D1_FirstValve-2
+Added Pin To Net: NetName=NetD1_SecondValve_1 Pin=D1_SecondValve-1
+Added Pin To Net: NetName=AMP_IN+_FirstValve Pin=D1_SecondValve-2
+Added Pin To Net: NetName=NetD1_ThirdValve_1 Pin=D1_ThirdValve-1
+Added Pin To Net: NetName=AMP_IN+_FirstValve Pin=D1_ThirdValve-2

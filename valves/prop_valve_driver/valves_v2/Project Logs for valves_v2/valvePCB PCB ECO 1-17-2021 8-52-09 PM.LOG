@@ -1,0 +1,16 @@
+Added Component: Designator=J5_SecondValve(MOLEX_436500200 - duplicate)
+Added Component: Designator=U3_SecondValve(INA240A3D)
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "296-48839-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AMP_IN-_SecondValve Pin=J5_SecondValve-1
+Added Pin To Net: NetName=NetD1_SecondValve_1 Pin=J5_SecondValve-2
+Added Pin To Net: NetName=AMP_IN-_SecondValve Pin=U3_SecondValve-1
+Added Pin To Net: NetName=AGND Pin=U3_SecondValve-2
+Added Pin To Net: NetName=AGND Pin=U3_SecondValve-3
+Added Pin To Net: NetName=Val2_Sense Pin=U3_SecondValve-5
+Added Pin To Net: NetName=3V3A Pin=U3_SecondValve-6
+Added Pin To Net: NetName=AGND Pin=U3_SecondValve-7
+Added Pin To Net: NetName=AMP_IN+_FirstValve Pin=U3_SecondValve-8
+Added Member To Class: ClassName=SecondValve Member=Component J5_SecondValve (J5) Valve
+Added Member To Class: ClassName=SecondValve Member=Component U3_SecondValve (U3) INA240A3D
+Added Room: Name=FirstValve
