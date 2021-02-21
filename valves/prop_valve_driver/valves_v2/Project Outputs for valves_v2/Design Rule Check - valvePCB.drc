@@ -1,127 +1,16 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\loren\Documents\Projects\PARSEC Electrical\avionics\valves\prop_valve_driver\valves_v2\valvePCB.PcbDoc
-Date     : 2/17/2021
-Time     : 9:43:51 PM
+Date     : 2/20/2021
+Time     : 9:52:40 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(InNet('No Net'))
 Rule Violations :0
 
+Processing Rule : Clearance Constraint (Gap=10mil) (InNamedPolygon('NONET_L02_P-001')),(All)
+Rule Violations :0
+
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-   Violation between Short-Circuit Constraint: Between Pad C2-1(530mil,1565mil) on Multi-Layer And Polygon Region (61 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad C2-1(530mil,1565mil) on Multi-Layer And Polygon Region (79 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad C2-2(530mil,1604.37mil) on Multi-Layer And Polygon Region (61 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad C2-2(530mil,1604.37mil) on Multi-Layer And Polygon Region (79 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad C3-1(480.63mil,2080mil) on Multi-Layer And Polygon Region (79 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad C3-2(520mil,2080mil) on Multi-Layer And Polygon Region (61 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad C4-1(180mil,800mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad C4-1(180mil,800mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad C4-2(219.37mil,800mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad C4-2(219.37mil,800mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad C5-1(560mil,230mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad C5-2(599.37mil,230mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad D1_1-1(2550mil,210mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad D1_1-1(2550mil,210mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad D1_1-2(1850mil,210mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad D1_1-2(1850mil,210mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad D1_2-1(2900mil,1090mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad D1_2-1(2900mil,1090mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad D1_2-2(2200mil,1090mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad D1_2-2(2200mil,1090mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad D1_3-1(2900mil,1920mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad D1_3-1(2900mil,1920mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad D1_3-2(2200mil,1920mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad D1_3-2(2200mil,1920mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad Free-MH1(2840mil,2640mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad Free-MH1(2840mil,2640mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad Free-MH2(160mil,2640mil) on Multi-Layer And Polygon Region (61 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad Free-MH2(160mil,2640mil) on Multi-Layer And Polygon Region (79 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad Free-MH3(160mil,160mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad Free-MH3(160mil,160mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad Free-MH4(2840mil,160mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad Free-MH4(2840mil,160mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J1-1(380mil,2640mil) on Multi-Layer And Polygon Region (61 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J1-2(480mil,2640mil) on Multi-Layer And Polygon Region (61 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J1-2(480mil,2640mil) on Multi-Layer And Polygon Region (79 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J1-3(580mil,2640mil) on Multi-Layer And Polygon Region (61 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J1-3(580mil,2640mil) on Multi-Layer And Polygon Region (79 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J1-4(680mil,2640mil) on Multi-Layer And Polygon Region (61 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J3-1(840mil,2640mil) on Multi-Layer And Polygon Region (61 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J3-2(940mil,2640mil) on Multi-Layer And Polygon Region (61 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J3-2(940mil,2640mil) on Multi-Layer And Polygon Region (79 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J3-3(1040mil,2640mil) on Multi-Layer And Polygon Region (61 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J3-3(1040mil,2640mil) on Multi-Layer And Polygon Region (79 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J3-4(1140mil,2640mil) on Multi-Layer And Polygon Region (61 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J4-1(1360mil,2100mil) on Multi-Layer And Polygon Region (79 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J4-2(1360mil,2000mil) on Multi-Layer And Polygon Region (61 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J4-2(1360mil,2000mil) on Multi-Layer And Polygon Region (79 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J4-3(1360mil,1900mil) on Multi-Layer And Polygon Region (61 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J4-4(1360mil,1800mil) on Multi-Layer And Polygon Region (61 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J4-4(1360mil,1800mil) on Multi-Layer And Polygon Region (79 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J5_1-(2790mil,600mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J5_1-(2790mil,600mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J5_1-1(2619.921mil,659.055mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J5_1-1(2619.921mil,659.055mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J5_1-2(2619.921mil,540.945mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J5_1-2(2619.921mil,540.945mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J5_2-(2793.78mil,1440mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J5_2-(2793.78mil,1440mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J5_2-1(2623.701mil,1499.055mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J5_2-1(2623.701mil,1499.055mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J5_2-2(2623.701mil,1380.945mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J5_2-2(2623.701mil,1380.945mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J5_3-(2780mil,2260mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J5_3-(2780mil,2260mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J5_3-1(2609.921mil,2319.055mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J5_3-1(2609.921mil,2319.055mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J5_3-2(2609.921mil,2200.945mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Pad J5_3-2(2609.921mil,2200.945mil) on Multi-Layer And Polygon Region (54 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (54 hole(s)) Layer 1 And Polygon Region (61 hole(s)) Layer 1 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (54 hole(s)) Layer 1 And Via (2245mil,860mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (54 hole(s)) Layer 1 And Via (2255mil,2535mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (54 hole(s)) Layer 1 And Via (2285mil,1705mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (54 hole(s)) Layer 1 And Via (2370mil,2105mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (54 hole(s)) Layer 1 And Via (2375mil,410mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (54 hole(s)) Layer 1 And Via (2390mil,1265mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (54 hole(s)) Layer 1 And Via (2390mil,2215mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (54 hole(s)) Layer 1 And Via (2395mil,525mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (54 hole(s)) Layer 1 And Via (2405mil,1385mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (54 hole(s)) Layer 1 And Via (720mil,1590mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (54 hole(s)) Layer 1 And Via (725mil,750mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (54 hole(s)) Layer 2 And Polygon Region (79 hole(s)) Layer 2 Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (54 hole(s)) Layer 2 And Via (2370mil,2105mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (54 hole(s)) Layer 2 And Via (2375mil,410mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (54 hole(s)) Layer 2 And Via (2380mil,2410mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (54 hole(s)) Layer 2 And Via (2380mil,715mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (54 hole(s)) Layer 2 And Via (2390mil,1265mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (54 hole(s)) Layer 2 And Via (2390mil,2215mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (54 hole(s)) Layer 2 And Via (2395mil,525mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (54 hole(s)) Layer 2 And Via (2400mil,1595mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (54 hole(s)) Layer 2 And Via (2405mil,1385mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (54 hole(s)) Layer 2 And Via (425mil,325mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (54 hole(s)) Layer 2 And Via (781.882mil,1700mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (61 hole(s)) Layer 1 And Via (1026.945mil,1721.945mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (61 hole(s)) Layer 1 And Via (1200mil,1610mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (61 hole(s)) Layer 1 And Via (1230mil,1075mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (61 hole(s)) Layer 1 And Via (1240mil,1350mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (61 hole(s)) Layer 1 And Via (170mil,1510mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (61 hole(s)) Layer 1 And Via (520mil,1955mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (61 hole(s)) Layer 1 And Via (575mil,2410mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (61 hole(s)) Layer 1 And Via (655mil,1977.972mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (61 hole(s)) Layer 1 And Via (890mil,2000mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (61 hole(s)) Layer 1 And Via (945mil,1720mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (61 hole(s)) Layer 1 And Via (990mil,1720mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (61 hole(s)) Layer 1 And Via (995mil,2045mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (79 hole(s)) Layer 2 And Via (1026.945mil,1721.945mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (79 hole(s)) Layer 2 And Via (1290mil,735mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (79 hole(s)) Layer 2 And Via (1460mil,1060mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (79 hole(s)) Layer 2 And Via (1460mil,1380mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (79 hole(s)) Layer 2 And Via (305mil,2025mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (79 hole(s)) Layer 2 And Via (575mil,2340mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (79 hole(s)) Layer 2 And Via (825mil,1955mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (79 hole(s)) Layer 2 And Via (945mil,1720mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (79 hole(s)) Layer 2 And Via (990mil,1720mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-   Violation between Short-Circuit Constraint: Between Polygon Region (79 hole(s)) Layer 2 And Via (990mil,2220mil) from Top Layer to Bottom Layer Location : [X = 0mil][Y = 0mil]
-Rule Violations :114
+Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
@@ -142,13 +31,7 @@ Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=5mil) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 5mil) Between Pad U1-1(710mil,2416.772mil) on Top Layer And Pad U1-2(710mil,2391.181mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 5mil) Between Pad U1-2(710mil,2391.181mil) on Top Layer And Pad U1-3(710mil,2365.59mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 5mil) Between Pad U1-3(710mil,2365.59mil) on Top Layer And Pad U1-4(710mil,2340mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 5mil) Between Pad U1-5(812.362mil,2340mil) on Top Layer And Pad U1-6(812.362mil,2365.59mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 5mil) Between Pad U1-6(812.362mil,2365.59mil) on Top Layer And Pad U1-7(812.362mil,2391.181mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
-   Violation between Minimum Solder Mask Sliver Constraint: (1.842mil < 5mil) Between Pad U1-7(812.362mil,2391.181mil) on Top Layer And Pad U1-8(812.362mil,2416.772mil) on Top Layer [Top Solder] Mask Sliver [1.842mil]
-Rule Violations :6
+Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=5.906mil) (IsPad),(All)
 Rule Violations :0
@@ -162,16 +45,16 @@ Rule Violations :0
 Processing Rule : RoomDefinition_3 (Bounding Region = (4000mil, 4670mil, 5370mil, 5510mil) (InComponentClass('Components Class 4'))
 Rule Violations :0
 
-Processing Rule : RoomDefinition_2 (Bounding Region = (4000mil, 2970mil, 5380mil, 3800mil) (InComponentClass('Components Class 3'))
+Processing Rule : RoomDefinition_1 (Bounding Region = (4010mil, 3850mil, 5380mil, 4640mil) (InComponentClass('Components Class 2'))
 Rule Violations :0
 
-Processing Rule : RoomDefinition_1 (Bounding Region = (4010mil, 3850mil, 5380mil, 4640mil) (InComponentClass('Components Class 2'))
+Processing Rule : RoomDefinition_2 (Bounding Region = (4000mil, 2970mil, 5380mil, 3800mil) (InComponentClass('Components Class 3'))
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 120
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
