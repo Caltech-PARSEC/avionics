@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\loren\Documents\Projects\PARSEC Electrical\avionics\valves\prop_valve_driver\valves_v2\valvePCB.PcbDoc
-Date     : 2/20/2021
-Time     : 9:52:40 PM
+PCB File : C:\Users\julli\OneDrive - California Institute of Technology\PARSEC\avionics\valves\prop_valve_driver\valves_v2\valvePCB.PcbDoc
+Date     : 3/10/2021
+Time     : 3:14:14 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(InNet('No Net'))
 Rule Violations :0
@@ -13,7 +13,8 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-Rule Violations :0
+   Violation between Un-Routed Net Constraint: Net MGND Between Pad C4-2(219.37mil,800mil) on Multi-Layer And Pad R9-2(830mil,789.685mil) on Top Layer 
+Rule Violations :1
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -34,10 +35,18 @@ Processing Rule : Minimum Solder Mask Sliver (Gap=5mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=5.906mil) (IsPad),(All)
-Rule Violations :0
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5.906mil) Between Pad Q2_2-1(1185mil,1427.402mil) on Top Layer And Text "R6_2" (1176.62mil,1405.005mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5.906mil) Between Pad Q2_2-3(1275mil,1390mil) on Top Layer And Text "R6_2" (1176.62mil,1405.005mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5.906mil) Between Pad R4_2-2(1440mil,1391.496mil) on Top Layer And Text "R5_3" (1334.021mil,1416.501mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.305mil < 5.906mil) Between Pad R5_3-2(1360mil,1602.992mil) on Top Layer And Text "Q2_3" (1244.021mil,1635.005mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.305mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.288mil < 5.906mil) Between Pad R5_5-2(1360mil,1391.496mil) on Top Layer And Text "R5_3" (1334.021mil,1416.501mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.288mil]
+Rule Violations :5
 
 Processing Rule : Silk to Silk (Clearance=5.906mil) (All),(All)
-Rule Violations :0
+   Violation between Silk To Silk Clearance Constraint: (Collision < 5.906mil) Between Text "Q2_2" (1134.021mil,1255.005mil) on Top Overlay And Text "R5_5" (1224.021mil,1225.005mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 5.906mil) Between Text "R6_2" (1176.62mil,1405.005mil) on Top Overlay And Track (1196.5mil,1376.698mil)(1196.5mil,1403.302mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (5.007mil < 5.906mil) Between Text "R6_2" (1176.62mil,1405.005mil) on Top Overlay And Track (1196.5mil,1452mil)(1263.5mil,1452mil) on Top Overlay Silk Text to Silk Clearance [5.007mil]
+Rule Violations :3
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
@@ -55,6 +64,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 0
+Violations Detected : 9
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02

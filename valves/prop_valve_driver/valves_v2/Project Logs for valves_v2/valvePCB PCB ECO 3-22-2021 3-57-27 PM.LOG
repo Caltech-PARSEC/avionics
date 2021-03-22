@@ -1,0 +1,259 @@
+Removed Pin From Net: NetName=3V3D Pin=C6-1
+Removed Pin From Net: NetName=DGND Pin=C6-2
+Removed Pin From Net: NetName=3V3D Pin=C7-1
+Removed Pin From Net: NetName=DGND Pin=C7-2
+Removed Pin From Net: NetName=3V3D Pin=C8-1
+Removed Pin From Net: NetName=DGND Pin=C8-2
+Change Component Designator: OldDesignator=C10_1 NewDesignator=C10_FirstValve
+Change Component Designator: OldDesignator=C10_2 NewDesignator=C10_SecondValve
+Change Component Designator: OldDesignator=C10_3 NewDesignator=C10_ThirdValve
+Change Component Designator: OldDesignator=D1_1 NewDesignator=D1_FirstValve
+Change Component Designator: OldDesignator=D1_2 NewDesignator=D1_SecondValve
+Change Component Designator: OldDesignator=D1_3 NewDesignator=D1_ThirdValve
+Change Component Designator: OldDesignator=J5_1 NewDesignator=J5_FirstValve
+Change Component Designator: OldDesignator=J5_2 NewDesignator=J5_SecondValve
+Change Component Designator: OldDesignator=J5_3 NewDesignator=J5_ThirdValve
+Change Component Designator: OldDesignator=Q1_1 NewDesignator=Q1_FirstValve
+Change Component Designator: OldDesignator=Q1_2 NewDesignator=Q1_SecondValve
+Change Component Designator: OldDesignator=Q1_3 NewDesignator=Q1_ThirdValve
+Change Component Designator: OldDesignator=Q2_1 NewDesignator=Q2_FirstValve
+Change Component Designator: OldDesignator=Q2_2 NewDesignator=Q2_SecondValve
+Change Component Designator: OldDesignator=Q2_3 NewDesignator=Q2_ThirdValve
+Change Component Designator: OldDesignator=R3_1 NewDesignator=R3_FirstValve
+Change Component Designator: OldDesignator=R3_2 NewDesignator=R3_SecondValve
+Change Component Designator: OldDesignator=R3_3 NewDesignator=R3_ThirdValve
+Change Component Designator: OldDesignator=R4_1 NewDesignator=R4_FirstValve
+Change Component Designator: OldDesignator=R4_2 NewDesignator=R4_SecondValve
+Change Component Designator: OldDesignator=R4_3 NewDesignator=R4_ThirdValve
+Change Component Designator: OldDesignator=R5_1 NewDesignator=R5_FirstValve
+Change Component Designator: OldDesignator=R5_3 NewDesignator=R5_ThirdValve
+Change Component Designator: OldDesignator=R5_5 NewDesignator=R5_SecondValve
+Change Component Designator: OldDesignator=R6_1 NewDesignator=R6_FirstValve
+Change Component Designator: OldDesignator=R6_2 NewDesignator=R6_SecondValve
+Change Component Designator: OldDesignator=R6_3 NewDesignator=R6_ThirdValve
+Change Component Designator: OldDesignator=U3_1 NewDesignator=U3_FirstValve
+Change Component Designator: OldDesignator=U3_2 NewDesignator=U3_SecondValve
+Change Component Designator: OldDesignator=U3_3 NewDesignator=U3_ThirdValve
+Added Component: Designator=C11(C0603_med_density)
+Add component (AddParameter): Name = "EIA RS-198 Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.47uF"; VariantName = "[No Variations]"
+Added Component: Designator=C12(C0603_med_density)
+Add component (AddParameter): Name = "EIA RS-198 Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.47uF"; VariantName = "[No Variations]"
+Added Component: Designator=C13(C0603_med_density)
+Add component (AddParameter): Name = "EIA RS-198 Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.47uF"; VariantName = "[No Variations]"
+Added Component: Designator=C14(C0603_med_density)
+Add component (AddParameter): Name = "EIA RS-198 Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.47uF"; VariantName = "[No Variations]"
+Added Component: Designator=C15(C0402_low_density)
+Add component (AddParameter): Name = "EIA RS-198 Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C16(C0805_med_density)
+Add component (AddParameter): Name = "EIA RS-198 Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED0805)
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Red"; VariantName = "[No Variations]"
+Added Component: Designator=D3(LED0805)
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Green"; VariantName = "[No Variations]"
+Added Component: Designator=D4(LED0805)
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R13(R0603_med_density)
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R14(R0603_med_density)
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R15(R0402_low_density)
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "390R"; VariantName = "[No Variations]"
+Added Component: Designator=R16(R0402_low_density)
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R17(R0402_low_density)
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R18(R0402_low_density)
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R19(R0402_low_density)
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(PUSHBUTTON)
+Added Component: Designator=SW2(PUSHBUTTON)
+Added Component: Designator=SW3(PUSHBUTTON)
+Added Component: Designator=SW4(PUSHBUTTON)
+Added Component: Designator=SW5(PUSHBUTTON)
+Added Component: Designator=U6(SOP-14)
+Add component (AddParameter): Name = "Bits(#)"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SCAS285AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "F @ Nom Voltage(Max)(Mhz)"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Generic Part Number"; Value = "SN74LVC14A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ICC @ Nom Voltage(Max)(mA)"; Value = "0.01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "CMOS,TTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range(C)"; Value = "-40 to 125"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Drive (IOL/IOH)(Max)(mA)"; Value = "-24/24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "CMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DB0014A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "Catalog"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schmitt Trigger"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology Family"; Value = "LVC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "tpd @ Nom Voltage(Max)(ns)"; Value = "11,7.8,7.5,6.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Max)(V)"; Value = "3.6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VCC(Min)(V)"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage(Nom)(V)"; Value = "1.8,2.5,2.7,3.3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DGND Pin=C6-1
+Added Pin To Net: NetName=3V3D Pin=C6-2
+Added Pin To Net: NetName=DGND Pin=C7-1
+Added Pin To Net: NetName=3V3D Pin=C7-2
+Added Pin To Net: NetName=DGND Pin=C8-1
+Added Pin To Net: NetName=3V3D Pin=C8-2
+Added Pin To Net: NetName=DGND Pin=C11-2
+Added Pin To Net: NetName=DGND Pin=C12-2
+Added Pin To Net: NetName=DGND Pin=C13-2
+Added Pin To Net: NetName=DGND Pin=C14-2
+Added Pin To Net: NetName=3V3D Pin=C15-1
+Added Pin To Net: NetName=DGND Pin=C15-2
+Added Pin To Net: NetName=DGND Pin=C16-1
+Added Pin To Net: NetName=DGND Pin=D2-K
+Added Pin To Net: NetName=DGND Pin=D3-K
+Added Pin To Net: NetName=DGND Pin=D4-K
+Added Pin To Net: NetName=3V3D Pin=R15-2
+Added Pin To Net: NetName=3V3D Pin=R16-2
+Added Pin To Net: NetName=3V3D Pin=R17-2
+Added Pin To Net: NetName=3V3D Pin=R18-2
+Added Pin To Net: NetName=3V3D Pin=R19-2
+Added Pin To Net: NetName=DGND Pin=SW1-2
+Added Pin To Net: NetName=DGND Pin=SW1-2
+Added Pin To Net: NetName=DGND Pin=SW2-2
+Added Pin To Net: NetName=DGND Pin=SW2-2
+Added Pin To Net: NetName=DGND Pin=SW3-2
+Added Pin To Net: NetName=DGND Pin=SW3-2
+Added Pin To Net: NetName=DGND Pin=SW4-2
+Added Pin To Net: NetName=DGND Pin=SW4-2
+Added Pin To Net: NetName=DGND Pin=SW5-1
+Added Pin To Net: NetName=DGND Pin=SW5-1
+Added Pin To Net: NetName=DGND Pin=U6-7
+Added Pin To Net: NetName=3V3D Pin=U6-11
+Added Pin To Net: NetName=3V3D Pin=U6-13
+Added Pin To Net: NetName=3V3D Pin=U6-14
+Change Net Name : Old Net Name=Vbat New Net Name=AMP_IN+_FirstValve
+Added Pin To Net: NetName=Button A Pin=U2-27
+Added Pin To Net: NetName=Button A Pin=U6-2
+Added Net: Name=Button A
+Added Pin To Net: NetName=Button B Pin=U2-28
+Added Pin To Net: NetName=Button B Pin=U6-4
+Added Net: Name=Button B
+Added Pin To Net: NetName=Button C Pin=U2-29
+Added Pin To Net: NetName=Button C Pin=U6-6
+Added Net: Name=Button C
+Added Pin To Net: NetName=Button D Pin=U2-30
+Added Pin To Net: NetName=Button D Pin=U6-8
+Added Net: Name=Button D
+Added Pin To Net: NetName=NetC11_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_1 Pin=R16-1
+Added Pin To Net: NetName=NetC11_1 Pin=SW1-1
+Added Pin To Net: NetName=NetC11_1 Pin=SW1-1
+Added Pin To Net: NetName=NetC11_1 Pin=U6-1
+Added Net: Name=NetC11_1
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=R17-1
+Added Pin To Net: NetName=NetC12_1 Pin=SW2-1
+Added Pin To Net: NetName=NetC12_1 Pin=SW2-1
+Added Pin To Net: NetName=NetC12_1 Pin=U6-9
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=R18-1
+Added Pin To Net: NetName=NetC13_1 Pin=SW3-1
+Added Pin To Net: NetName=NetC13_1 Pin=SW3-1
+Added Pin To Net: NetName=NetC13_1 Pin=U6-3
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=R19-1
+Added Pin To Net: NetName=NetC14_1 Pin=SW4-1
+Added Pin To Net: NetName=NetC14_1 Pin=SW4-1
+Added Pin To Net: NetName=NetC14_1 Pin=U6-5
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetC16_2 Pin=SW5-2
+Added Pin To Net: NetName=NetC16_2 Pin=SW5-2
+Added Pin To Net: NetName=NetC16_2 Pin=U2-4
+Added Net: Name=NetC16_2
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_A Pin=R13-1
+Added Net: Name=NetD2_A
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=NetD3_A Pin=R14-1
+Added Net: Name=NetD3_A
+Added Pin To Net: NetName=NetD4_A Pin=D4-A
+Added Pin To Net: NetName=NetD4_A Pin=R15-1
+Added Net: Name=NetD4_A
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=U2-26
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=U2-25
+Added Net: Name=NetR14_2
+Change Class Name : Old Net Name=Components Class 2 New Net Name=SecondValve
+Change Class Name : Old Net Name=Components Class 3 New Net Name=FirstValve
+Added Class: Name=Buttons
+Added Member To Class: ClassName=valves Member=Component C16 CapCer
+Added Member To Class: ClassName=valves Member=Component D2 LED
+Added Member To Class: ClassName=valves Member=Component D3 LED
+Added Member To Class: ClassName=Designator Member=Component D4 LED
+Added Member To Class: ClassName=FirstValve Member=Component Q2_FirstValve (Q2) RK7002BMT116
+Added Member To Class: ClassName=SecondValve Member=Component Q2_SecondValve (Q2) RK7002BMT116
+Added Member To Class: ClassName=FirstValve Member=Component R4_FirstValve (R4) ResChip
+Added Member To Class: ClassName=SecondValve Member=Component R4_SecondValve (R4) ResChip
+Added Member To Class: ClassName=FirstValve Member=Component R5_FirstValve (R5) ResChip
+Added Member To Class: ClassName=SecondValve Member=Component R5_SecondValve (R5) ResChip
+Added Member To Class: ClassName=FirstValve Member=Component R6_FirstValve (R6) ResChip
+Added Member To Class: ClassName=SecondValve Member=Component R6_SecondValve (R6) ResChip
+Added Member To Class: ClassName=valves Member=Component R13 ResChip
+Added Member To Class: ClassName=valves Member=Component R14 ResChip
+Added Member To Class: ClassName=Designator Member=Component R15 ResChip
+Added Member To Class: ClassName=valves Member=Component SW5 Switch
+Change Room Name: Old Name=RoomDefinition_3 New Name=SecondValve
+Change Room Scope: Old Scope=InComponentClass('Components Class 4') New Scope=InComponentClass('SecondValve')
+Added Room: Name=Buttons
+Added Room: Name=Designator
+Added Room: Name=FirstValve
+Added Room: Name=ThirdValve
+Added Room: Name=valves
