@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C10_FirstValve Old Footprint=C0805_med_density New Footprint=C0603_med_density
+Change Component Footprint: Designator=C10_SecondValve Old Footprint=C0805_med_density New Footprint=C0603_med_density
+Change Component Footprint: Designator=C10_ThirdValve Old Footprint=C0805_med_density New Footprint=C0603_med_density

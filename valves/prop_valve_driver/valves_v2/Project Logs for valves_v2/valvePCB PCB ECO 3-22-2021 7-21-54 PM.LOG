@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C17 Old Footprint=C0402_low_density New Footprint=C0603_med_density
+Change Component Footprint: Designator=C6 Old Footprint=C0805_med_density New Footprint=C0603_med_density
+Change Component Footprint: Designator=C7 Old Footprint=C0805_med_density New Footprint=C0603_med_density
+Change Component Footprint: Designator=C8 Old Footprint=C0805_med_density New Footprint=C0603_med_density
+Change Component Footprint: Designator=C9 Old Footprint=C0805_med_density New Footprint=C0603_med_density
