@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=DGND Pin=R9-1
+Removed Pin From Net: NetName=MGND Pin=R9-2
+Removed Member From Class: ClassName=Designator Member=R9

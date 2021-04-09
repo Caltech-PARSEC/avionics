@@ -1,25 +1,27 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\julli\OneDrive - California Institute of Technology\PARSEC\avionics\valves\prop_valve_driver\valves_v2\valvePCB.PcbDoc
-Date     : 3/10/2021
-Time     : 3:14:14 PM
+Date     : 4/9/2021
+Time     : 4:17:14 AM
 
-Processing Rule : Clearance Constraint (Gap=10mil) (All),(InNet('No Net'))
+Processing Rule : Clearance Constraint (Gap=8mil) ((OnLayer('Layer 1') OR OnLayer('Layer 2')) AND IsTrack),((OnLayer('Layer 1') OR OnLayer('Layer 2')) AND IsTrack)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=10mil) (InNamedPolygon('NONET_L02_P-001')),(All)
+Processing Rule : Clearance Constraint (Gap=8mil) ((OnLayer('Top Layer') OR OnLayer('Bottom Layer')) AND IsTrack),((OnLayer('Top Layer') OR OnLayer('Bottom Layer')) AND IsTrack)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net MGND Between Pad C4-2(219.37mil,800mil) on Multi-Layer And Pad R9-2(830mil,789.685mil) on Top Layer 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=5mil) (Max=40mil) (Preferred=10mil) (All)
+Processing Rule : Width Constraint (Min=5mil) (Max=100mil) (Preferred=10mil) (All)
 Rule Violations :0
 
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
@@ -28,42 +30,41 @@ Rule Violations :0
 Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=248.031mil) (All)
 Rule Violations :0
 
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (IsVia),(IsVia)
+Rule Violations :0
+
 Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=5mil) (All),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=8mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=5.906mil) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5.906mil) Between Pad Q2_2-1(1185mil,1427.402mil) on Top Layer And Text "R6_2" (1176.62mil,1405.005mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5.906mil) Between Pad Q2_2-3(1275mil,1390mil) on Top Layer And Text "R6_2" (1176.62mil,1405.005mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5.906mil) Between Pad R4_2-2(1440mil,1391.496mil) on Top Layer And Text "R5_3" (1334.021mil,1416.501mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (5.305mil < 5.906mil) Between Pad R5_3-2(1360mil,1602.992mil) on Top Layer And Text "Q2_3" (1244.021mil,1635.005mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.305mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (4.288mil < 5.906mil) Between Pad R5_5-2(1360mil,1391.496mil) on Top Layer And Text "R5_3" (1334.021mil,1416.501mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.288mil]
-Rule Violations :5
+Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=5.906mil) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (Collision < 5.906mil) Between Text "Q2_2" (1134.021mil,1255.005mil) on Top Overlay And Text "R5_5" (1224.021mil,1225.005mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 5.906mil) Between Text "R6_2" (1176.62mil,1405.005mil) on Top Overlay And Track (1196.5mil,1376.698mil)(1196.5mil,1403.302mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (5.007mil < 5.906mil) Between Text "R6_2" (1176.62mil,1405.005mil) on Top Overlay And Track (1196.5mil,1452mil)(1263.5mil,1452mil) on Top Overlay Silk Text to Silk Clearance [5.007mil]
-Rule Violations :3
+Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
-Processing Rule : RoomDefinition_3 (Bounding Region = (4000mil, 4670mil, 5370mil, 5510mil) (InComponentClass('Components Class 4'))
-Rule Violations :0
-
-Processing Rule : RoomDefinition_1 (Bounding Region = (4010mil, 3850mil, 5380mil, 4640mil) (InComponentClass('Components Class 2'))
-Rule Violations :0
-
-Processing Rule : RoomDefinition_2 (Bounding Region = (4000mil, 2970mil, 5380mil, 3800mil) (InComponentClass('Components Class 3'))
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
 Rule Violations :0
 
 Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
+Waived Violations Of Rule : Clearance Constraint (Gap=8mil) (All),(All)
+   Waived Violation between Clearance Constraint: (Collision < 8mil) Between Area Fill (990mil,1040mil) (1320mil,1270mil) on Layer 2 And Pad J2-2(1076mil,1158mil) on Multi-Layer Waived by Julian Sanders at 4/9/2021 1:27:27 AMConnection between MGND and DGND
+   Waived Violation between Clearance Constraint: (Collision < 8mil) Between Area Fill (990mil,1040mil) (1320mil,1270mil) on Layer 2 And Pad J2-3(1231.906mil,1158mil) on Multi-Layer Waived by Julian Sanders at 4/9/2021 1:27:18 AMConnection between MGND and DGND
+Waived Violations :2
 
-Violations Detected : 9
-Waived Violations : 0
+Waived Violations Of Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Waived Violation between Short-Circuit Constraint: Between Area Fill (990mil,1040mil) (1320mil,1270mil) on Layer 2 And Pad J2-2(1076mil,1158mil) on Multi-Layer Location : [X = 3476mil][Y = 4058mil]Waived by Julian Sanders at 4/7/2021 1:31:45 PMConnection between MGND and DGND
+   Waived Violation between Short-Circuit Constraint: Between Area Fill (990mil,1040mil) (1320mil,1270mil) on Layer 2 And Pad J2-3(1231.906mil,1158mil) on Multi-Layer Location : [X = 3631.905mil][Y = 4058mil]Waived by Julian Sanders at 4/7/2021 1:32:16 PMConnection between MGND and DGND
+Waived Violations :2
+
+
+Violations Detected : 0
+Waived Violations : 4
 Time Elapsed        : 00:00:02

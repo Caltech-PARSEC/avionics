@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=DGND Pin=R10-1
+Removed Pin From Net: NetName=MGND Pin=R10-2
+Removed Member From Class: ClassName=Designator Member=R10
+Added Component: Designator=T1(Rectangle_Net_Tie)
+Added Member To Class: ClassName=Designator Member=Component T1 NetTie

@@ -1,0 +1,28 @@
+Change Component Footprint: Designator=C2 Old Footprint=C_ULM New Footprint=C1206_tant_low_density
+Change Component Footprint: Designator=C4 Old Footprint=C_ULM New Footprint=C1206_tant_low_density
+Change Component Footprint: Designator=C3 Old Footprint=CAP_UMA_3X5_NCH New Footprint=C1206_tant_low_density
+Change Component Footprint: Designator=C5 Old Footprint=CAP_UMA_3X5_NCH New Footprint=C1206_tant_low_density
+Change Component Comment : Designator=C2 Old Comment=CapAlum New Comment=CapTant
+Change Component Comment : Designator=C3 Old Comment=CapAlum New Comment=CapTant
+Change Component Comment : Designator=C4 Old Comment=CapAlum New Comment=CapTant
+Change Component Comment : Designator=C5 Old Comment=CapAlum New Comment=CapTant
+Change component parameters: Designator = "C2" ("C2"); Footprint = "C_ULM"; UniqueID = "\DGTBNLPW\NGGTKXYP" ("\DGTBNLPW\NGGTKXYP")
+Change component parameters (AddParameter): Name = "Package"; Value = "THD, 100mil pitch, 4.5mm diameter"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CAP_UMA_3X5_NCH"; UniqueID = "\DGTBNLPW\IGICCKJI" ("\DGTBNLPW\IGICCKJI")
+Change component parameters (AddParameter): Name = "Package"; Value = "THD, 100mil pitch, 4.5mm diameter"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "C_ULM"; UniqueID = "\DGTBNLPW\CPZUHGCB" ("\DGTBNLPW\CPZUHGCB")
+Change component parameters (AddParameter): Name = "Package"; Value = "THD, 100mil pitch, 4.5mm diameter"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAP_UMA_3X5_NCH"; UniqueID = "\DGTBNLPW\YERPCCWD" ("\DGTBNLPW\YERPCCWD")
+Change component parameters (AddParameter): Name = "Package"; Value = "THD, 100mil pitch, 4.5mm diameter"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"

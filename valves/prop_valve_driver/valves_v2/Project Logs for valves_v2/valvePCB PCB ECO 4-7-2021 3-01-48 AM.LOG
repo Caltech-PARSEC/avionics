@@ -1,0 +1,10 @@
+Added Component: Designator=T1(rect_ring_tie)
+Added Pin To Net: NetName=MGND Pin=T1-1
+Added Pin To Net: NetName=MGND Pin=T1-1
+Added Pin To Net: NetName=MGND Pin=T1-1
+Added Pin To Net: NetName=MGND Pin=T1-1
+Added Pin To Net: NetName=DGND Pin=T1-2
+Added Pin To Net: NetName=DGND Pin=T1-2
+Added Pin To Net: NetName=DGND Pin=T1-2
+Added Pin To Net: NetName=DGND Pin=T1-2
+Added Member To Class: ClassName=Designator Member=Component T1 NetTie

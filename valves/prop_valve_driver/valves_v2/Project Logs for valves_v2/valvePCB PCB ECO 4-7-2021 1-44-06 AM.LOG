@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=DGND Pin=C5-2
+Added Pin To Net: NetName=DGND Pin=C10_FirstValve-2
+Added Pin To Net: NetName=DGND Pin=C10_ThirdValve-2
+Added Pin To Net: NetName=DGND Pin=R9-1
+Added Pin To Net: NetName=DGND Pin=R12-1
+Added Pin To Net: NetName=DGND Pin=U3_FirstValve-2
+Added Pin To Net: NetName=DGND Pin=U3_FirstValve-3
+Added Pin To Net: NetName=DGND Pin=U3_FirstValve-4
+Added Pin To Net: NetName=DGND Pin=U3_FirstValve-7
+Added Pin To Net: NetName=DGND Pin=U3_ThirdValve-2
+Added Pin To Net: NetName=DGND Pin=U3_ThirdValve-3
+Added Pin To Net: NetName=DGND Pin=U3_ThirdValve-4
+Added Pin To Net: NetName=DGND Pin=U3_ThirdValve-7

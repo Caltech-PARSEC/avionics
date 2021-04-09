@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=MGND Pin=T1-1
+Removed Pin From Net: NetName=MGND Pin=T1-1
+Removed Pin From Net: NetName=MGND Pin=T1-1
+Removed Pin From Net: NetName=MGND Pin=T1-1
+Removed Pin From Net: NetName=DGND Pin=T1-2
+Removed Pin From Net: NetName=DGND Pin=T1-2
+Removed Pin From Net: NetName=DGND Pin=T1-2
+Removed Pin From Net: NetName=DGND Pin=T1-2
+Added Pin To Net: NetName=DGND Pin=T1-1
+Added Pin To Net: NetName=DGND Pin=T1-1
+Added Pin To Net: NetName=DGND Pin=T1-1
+Added Pin To Net: NetName=DGND Pin=T1-1
+Added Pin To Net: NetName=MGND Pin=T1-2
+Added Pin To Net: NetName=MGND Pin=T1-2
+Added Pin To Net: NetName=MGND Pin=T1-2
+Added Pin To Net: NetName=MGND Pin=T1-2
+Added Room: Name=Buttons
+Added Room: Name=Designator
+Added Room: Name=valves

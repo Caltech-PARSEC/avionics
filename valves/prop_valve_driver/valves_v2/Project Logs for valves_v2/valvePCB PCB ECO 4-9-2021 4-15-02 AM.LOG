@@ -1,0 +1,15 @@
+Added Component: Designator=D5(LED0805)
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R9(R0805_med_density)
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "390R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DGND Pin=D5-K
+Added Pin To Net: NetName=3V3A Pin=R9-2
+Added Pin To Net: NetName=NetD5_A Pin=D5-A
+Added Pin To Net: NetName=NetD5_A Pin=R9-1
+Added Net: Name=NetD5_A
+Added Member To Class: ClassName=Designator Member=Component D5 LED
+Added Member To Class: ClassName=Designator Member=Component R9 ResChip

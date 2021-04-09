@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=3V3A Pin=C10_SecondValve-1
+Removed Pin From Net: NetName=AGND Pin=C10_SecondValve-2
+Removed Pin From Net: NetName=AMP_IN+_FirstValve Pin=D1_SecondValve-2
+Removed Pin From Net: NetName=MGND Pin=Q1_SecondValve-3
+Removed Pin From Net: NetName=DGND Pin=Q2_SecondValve-1
+Removed Pin From Net: NetName=AMP_IN+_FirstValve Pin=R3_SecondValve-2
+Removed Pin From Net: NetName=3V3D Pin=R4_SecondValve-1
+Removed Pin From Net: NetName=3V3D Pin=R5_SecondValve-1
+Removed Pin From Net: NetName=AGND Pin=U3_SecondValve-2
+Removed Pin From Net: NetName=AGND Pin=U3_SecondValve-3
+Removed Pin From Net: NetName=AGND Pin=U3_SecondValve-4
+Removed Pin From Net: NetName=3V3A Pin=U3_SecondValve-6
+Removed Pin From Net: NetName=AGND Pin=U3_SecondValve-7
+Removed Pin From Net: NetName=AMP_IN+_FirstValve Pin=U3_SecondValve-8
+Added Room: Name=Designator
+Added Room: Name=FirstValve
+Added Room: Name=ThirdValve
