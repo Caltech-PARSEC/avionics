@@ -1,9 +1,9 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\julli\OneDrive - California Institute of Technology\PARSEC\avionics\valves\prop_valve_driver\valves_v2\valvePCB.PcbDoc
-Date     : 4/9/2021
-Time     : 2:52:00 PM
+PCB File : C:\Users\loren\Documents\Projects\PARSEC Electrical\avionics\valves\prop_valve_driver\valves_v2\valvePCB.PcbDoc
+Date     : 4/10/2021
+Time     : 6:56:26 PM
 
-Processing Rule : Clearance Constraint (Gap=8mil) ((OnLayer('Layer 1') OR OnLayer('Layer 2')) AND IsTrack),((OnLayer('Layer 1') OR OnLayer('Layer 2')) AND IsTrack)
+Processing Rule : Clearance Constraint (Gap=5mil) ((OnLayer('Layer 1') OR OnLayer('Layer 2')) AND IsTrack),((OnLayer('Layer 1') OR OnLayer('Layer 2')) AND IsTrack)
 Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=8mil) ((OnLayer('Top Layer') OR OnLayer('Bottom Layer')) AND IsTrack),((OnLayer('Top Layer') OR OnLayer('Bottom Layer')) AND IsTrack)
@@ -55,16 +55,16 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 Waived Violations Of Rule : Clearance Constraint (Gap=8mil) (All),(All)
-   Waived Violation between Clearance Constraint: (Collision < 8mil) Between Area Fill (990mil,1040mil) (1320mil,1270mil) on Layer 2 And Pad J2-2(1076mil,1158mil) on Multi-Layer Waived by Julian Sanders at 4/9/2021 1:27:27 AMConnection between MGND and DGND
-   Waived Violation between Clearance Constraint: (Collision < 8mil) Between Area Fill (990mil,1040mil) (1320mil,1270mil) on Layer 2 And Pad J2-3(1231.906mil,1158mil) on Multi-Layer Waived by Julian Sanders at 4/9/2021 1:27:18 AMConnection between MGND and DGND
+   Waived Violation between Clearance Constraint: (Collision < 8mil) Between Area Fill (990mil,1040mil) (1320mil,1270mil) on Layer 2 And Pad J2-2(1076mil,1158mil) on Multi-Layer Waived by Julian Sanders at 4/9/2021 4:27:27 AMConnection between MGND and DGND
+   Waived Violation between Clearance Constraint: (Collision < 8mil) Between Area Fill (990mil,1040mil) (1320mil,1270mil) on Layer 2 And Pad J2-3(1231.906mil,1158mil) on Multi-Layer Waived by Julian Sanders at 4/9/2021 4:27:18 AMConnection between MGND and DGND
 Waived Violations :2
 
 Waived Violations Of Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-   Waived Violation between Short-Circuit Constraint: Between Area Fill (990mil,1040mil) (1320mil,1270mil) on Layer 2 And Pad J2-2(1076mil,1158mil) on Multi-Layer Location : [X = 3476mil][Y = 4058mil]Waived by Julian Sanders at 4/7/2021 1:31:45 PMConnection between MGND and DGND
-   Waived Violation between Short-Circuit Constraint: Between Area Fill (990mil,1040mil) (1320mil,1270mil) on Layer 2 And Pad J2-3(1231.906mil,1158mil) on Multi-Layer Location : [X = 3631.905mil][Y = 4058mil]Waived by Julian Sanders at 4/7/2021 1:32:16 PMConnection between MGND and DGND
+   Waived Violation between Short-Circuit Constraint: Between Area Fill (990mil,1040mil) (1320mil,1270mil) on Layer 2 And Pad J2-2(1076mil,1158mil) on Multi-Layer Location : [X = 3476mil][Y = 4058mil]Waived by Julian Sanders at 4/7/2021 4:31:45 PMConnection between MGND and DGND
+   Waived Violation between Short-Circuit Constraint: Between Area Fill (990mil,1040mil) (1320mil,1270mil) on Layer 2 And Pad J2-3(1231.906mil,1158mil) on Multi-Layer Location : [X = 3631.905mil][Y = 4058mil]Waived by Julian Sanders at 4/7/2021 4:32:16 PMConnection between MGND and DGND
 Waived Violations :2
 
 
 Violations Detected : 0
 Waived Violations : 4
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:04
