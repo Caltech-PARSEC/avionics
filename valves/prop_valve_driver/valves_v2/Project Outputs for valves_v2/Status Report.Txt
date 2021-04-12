@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [valves_v2.PrjPcb]
+   Generated File[valvePCB.TXT]
+   Generated File[valvePCB.LDP]
+   Generated File[valvePCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:18:22 PM On 4/11/2021
