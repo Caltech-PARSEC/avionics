@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Val3_PWM Pin=U2-9
+Removed Pin From Net: NetName=Val1_Sense Pin=U2-10
+Added Pin To Net: NetName=Val1_Sense Pin=U2-9
+Added Pin To Net: NetName=Val3_PWM Pin=U2-11

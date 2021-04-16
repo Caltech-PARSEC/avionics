@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\loren\Documents\Projects\PARSEC Electrical\avionics\valves\prop_valve_driver\valves_v2\valvePCB.PcbDoc
-Date     : 4/10/2021
-Time     : 6:56:26 PM
+Date     : 4/15/2021
+Time     : 7:07:58 PM
 
 Processing Rule : Clearance Constraint (Gap=5mil) ((OnLayer('Layer 1') OR OnLayer('Layer 2')) AND IsTrack),((OnLayer('Layer 1') OR OnLayer('Layer 2')) AND IsTrack)
 Rule Violations :0
