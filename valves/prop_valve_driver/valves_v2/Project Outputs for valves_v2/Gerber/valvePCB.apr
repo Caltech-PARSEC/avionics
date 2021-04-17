@@ -85,8 +85,8 @@ D95   ROUNDED           100.000     100.000       0.000 FLASH       0.000
 D96   ROUNDED           250.000     250.000       0.000 FLASH       0.000
 D97   ROUNDED            59.055      59.055       0.000 FLASH       0.000
 D98   RECTANGULAR        59.055      59.055       0.000 FLASH     270.000
-D99   ROUNDED            24.000      24.000       0.000 FLASH       0.000
-D100  ROUNDED            25.000      25.000       0.000 FLASH       0.000
+D99   ROUNDED            25.000      25.000       0.000 FLASH       0.000
+D100  ROUNDED            24.000      24.000       0.000 FLASH       0.000
 D101  ROUNDED            50.000      50.000       0.000 FLASH       0.000
 D102  RECTANGULAR       330.000     230.000       0.000 FLASH       0.000
 D103  ROUNDED             3.937       3.937       0.000  LINE       0.000
