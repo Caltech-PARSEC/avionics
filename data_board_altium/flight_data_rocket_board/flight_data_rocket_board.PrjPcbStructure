@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=CAN_circuit.SchDoc
+Record=TopLevelDocument|FileName=CAN_circuit.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CAN_circuit.SchDoc|FileName=flight_data_sch.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CAN_circuit.SchDoc|FileName=Power_Schematic.SchDoc|SheetNumber= 
