@@ -1,12 +1,22 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [valves_v2.PrjPcb]
-   Generated File[valvePCB.TXT]
-   Generated File[valvePCB.LDP]
-   Generated File[valvePCB.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [valves_v2.PrjPcb]
+   Generated File[valvePCB.GTO]
+   Generated File[valvePCB.GTS]
+   Generated File[valvePCB.GTL]
+   Generated File[valvePCB.G1]
+   Generated File[valvePCB.G2]
+   Generated File[valvePCB.GBL]
+   Generated File[valvePCB.GBS]
+   Generated File[valvePCB.GBO]
+   Generated File[valvePCB.GM1]
+   Generated File[valvePCB.GKO]
+   Generated File[valvePCB.RUL]
+   Generated File[valvePCB.EXTREP]
+   Generated File[valvePCB.REP]
 
 
-Files Generated   : 3
+Files Generated   : 13
 Documents Printed : 0
 
-Finished Output Generation At 3:56:25 PM On 4/17/2021
+Finished Output Generation At 5:07:51 PM On 4/24/2021

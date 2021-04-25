@@ -1,7 +1,0 @@
-DRC Rules Export File for PCB: C:\Users\loren\Documents\Projects\PARSEC Electrical\avionics\valves\prop_valve_driver\valves_v2\valvePCB.PcbDoc
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=8.00
-RuleKind=Clearance|RuleName=Interior Layer Track|Scope=Board|Minimum=5.00
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
-RuleKind=Clearance|RuleName=Exterior Layer Track|Scope=Board|Minimum=8.00
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
