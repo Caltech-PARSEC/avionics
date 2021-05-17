@@ -10,7 +10,7 @@
   * inserted by the user or by software development tools
   * are owned by their respective copyright owners.
   *
-  * COPYRIGHT(c) 2020 STMicroelectronics
+  * COPYRIGHT(c) 2021 STMicroelectronics
   *
   * Redistribution and use in source and binary forms, with or without modification,
   * are permitted provided that the following conditions are met:
@@ -119,8 +119,7 @@ int main(void)
   HAL_Init();
 
   /* USER CODE BEGIN Init */
-  // Start the IRQ timer on which data is sent over CAN
-  HAL_TIM_Base_Start_IT(&htim3);
+
   /* USER CODE END Init */
 
   /* Configure the system clock */
@@ -135,11 +134,19 @@ int main(void)
   MX_ADC1_Init();
   MX_CAN1_Init();
   MX_TIM3_Init();
-
   /* USER CODE BEGIN 2 */
+  // Start the IRQ timer on which data is sent over CAN
+  HAL_TIM_Base_Start_IT(&htim3);
 
-  // Configure CAN hardware filters
+
+  // Initialize the CAN peripheral
+  HAL_CAN_Init(&hcan1);
+
+  // Configure CAN hardware receive filters
   CAN_filterConfig();
+
+  // Start the CAN module
+  HAL_CAN_Start(&hcan1);
 
 
   // Start listening for CAN traffic on interrupt
@@ -170,7 +177,7 @@ int main(void)
 		  convSums[i] += HAL_ADC_GetValue(&hadc1);
 
 		  // Remove for launch procedures!
-		  HAL_Delay(10);	// delay 10 ms to cut down the averaging rate
+		  HAL_Delay(1);	// delay 1 ms to cut down the averaging rate
 		  // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 	  }
   }
