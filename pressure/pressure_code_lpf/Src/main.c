@@ -10,7 +10,7 @@
   * inserted by the user or by software development tools
   * are owned by their respective copyright owners.
   *
-  * COPYRIGHT(c) 2020 STMicroelectronics
+  * COPYRIGHT(c) 2021 STMicroelectronics
   *
   * Redistribution and use in source and binary forms, with or without modification,
   * are permitted provided that the following conditions are met:
@@ -74,18 +74,26 @@ CAN_TxHeaderTypeDef baseCanTxHead;
 // that channel in the regular sequence registers. The sequence
 // should be set up so that rank 1 corresponds to the port labelled
 // "PT 1" on the board silkscreen.
-static int convSums[NUM_SENSORS] = {0};
+static int convSums[NUM_SENSORS] = {0, 0, 0, 0, 0, 0, 0, 0, 0};
 
 // An array of the number of conversions that have been added to the
 // corresponding element of the running sum array defined above. This
 // is the number we divide by to get the average from the running sum.
-static int numSmpls[NUM_SENSORS] = {0};
+static int numSmpls[NUM_SENSORS] = {0, 0, 0, 0, 0, 0, 0, 0, 0};
 
 // The port number portion of the CAN ID corresponding to the message
 // send for the data of each of the sensors, shifted so that the
 // field is properly positioned within the CAN ID.
 const int portNum[NUM_SENSORS] = {
-		0 << PORT_NUM_SHIFT
+		0 << PORT_NUM_SHIFT,
+		1 << PORT_NUM_SHIFT,
+		2 << PORT_NUM_SHIFT,
+		3 << PORT_NUM_SHIFT,
+		4 << PORT_NUM_SHIFT,
+		5 << PORT_NUM_SHIFT,
+		6 << PORT_NUM_SHIFT,
+		7 << PORT_NUM_SHIFT,
+		8 << PORT_NUM_SHIFT
 };
 
 // Expected to be used by the timer 3 ISR to determine which of the
@@ -126,7 +134,6 @@ int main(void)
   MX_ADC1_Init();
   MX_CAN1_Init();
   MX_TIM3_Init();
-
   /* USER CODE BEGIN 2 */
   // Start the IRQ timer on which data is sent over CAN
   HAL_TIM_Base_Start_IT(&htim3);

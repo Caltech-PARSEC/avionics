@@ -10,7 +10,7 @@
   * inserted by the user or by software development tools
   * are owned by their respective copyright owners.
   *
-  * COPYRIGHT(c) 2020 STMicroelectronics
+  * COPYRIGHT(c) 2021 STMicroelectronics
   *
   * Redistribution and use in source and binary forms, with or without modification,
   * are permitted provided that the following conditions are met:
@@ -53,10 +53,9 @@ void MX_TIM3_Init(void)
   TIM_MasterConfigTypeDef sMasterConfig;
 
   htim3.Instance = TIM3;
-  // Set to 90 to send data every 1 ms (this is the launch-stand frequency)
-  //htim3.Init.Prescaler = 90;
-  // Set to 9000 to send data every 100 ms
-  htim3.Init.Prescaler = 9000;
+  // Set prescaler to 9000 and period to 1000 to send data every 100ms
+  // Set prescaler to 90   and period to 1000 to send data every 1ms
+  htim3.Init.Prescaler = 90;
   htim3.Init.CounterMode = TIM_COUNTERMODE_DOWN;
   htim3.Init.Period = 1000;
   htim3.Init.ClockDivision = TIM_CLOCKDIVISION_DIV1;
