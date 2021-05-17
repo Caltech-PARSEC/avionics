@@ -57,7 +57,7 @@
 /* #define USE_FULL_ASSERT    1U */
 
 /* USER CODE BEGIN Private defines */
-#define NUM_SENSORS 9
+#define NUM_SENSORS 1
 /* USER CODE END Private defines */
 
 #ifdef __cplusplus

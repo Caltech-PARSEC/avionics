@@ -55,7 +55,7 @@ void MX_TIM3_Init(void)
   htim3.Instance = TIM3;
   // Set to 90 to send data every 1 ms (this is the launch-stand frequency)
   //htim3.Init.Prescaler = 90;
-  // Set to 9000 to send data every 100 ms (for Jack's shit)
+  // Set to 9000 to send data every 100 ms
   htim3.Init.Prescaler = 9000;
   htim3.Init.CounterMode = TIM_COUNTERMODE_DOWN;
   htim3.Init.Period = 1000;

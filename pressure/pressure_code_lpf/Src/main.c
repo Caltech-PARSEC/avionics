@@ -74,26 +74,18 @@ CAN_TxHeaderTypeDef baseCanTxHead;
 // that channel in the regular sequence registers. The sequence
 // should be set up so that rank 1 corresponds to the port labelled
 // "PT 1" on the board silkscreen.
-static int convSums[NUM_SENSORS] = {0, 0, 0, 0, 0, 0, 0, 0, 0};
+static int convSums[NUM_SENSORS] = {0};
 
 // An array of the number of conversions that have been added to the
 // corresponding element of the running sum array defined above. This
 // is the number we divide by to get the average from the running sum.
-static int numSmpls[NUM_SENSORS] = {0, 0, 0, 0, 0, 0, 0, 0, 0};
+static int numSmpls[NUM_SENSORS] = {0};
 
 // The port number portion of the CAN ID corresponding to the message
 // send for the data of each of the sensors, shifted so that the
 // field is properly positioned within the CAN ID.
 const int portNum[NUM_SENSORS] = {
-		0 << PORT_NUM_SHIFT,
-		1 << PORT_NUM_SHIFT,
-		2 << PORT_NUM_SHIFT,
-		3 << PORT_NUM_SHIFT,
-		4 << PORT_NUM_SHIFT,
-		5 << PORT_NUM_SHIFT,
-		6 << PORT_NUM_SHIFT,
-		7 << PORT_NUM_SHIFT,
-		8 << PORT_NUM_SHIFT
+		0 << PORT_NUM_SHIFT
 };
 
 // Expected to be used by the timer 3 ISR to determine which of the
@@ -119,8 +111,7 @@ int main(void)
   HAL_Init();
 
   /* USER CODE BEGIN Init */
-  // Start the IRQ timer on which data is sent over CAN
-  HAL_TIM_Base_Start_IT(&htim3);
+
   /* USER CODE END Init */
 
   /* Configure the system clock */
@@ -137,9 +128,18 @@ int main(void)
   MX_TIM3_Init();
 
   /* USER CODE BEGIN 2 */
+  // Start the IRQ timer on which data is sent over CAN
+  HAL_TIM_Base_Start_IT(&htim3);
 
-  // Configure CAN hardware filters
+
+  // Initialize the CAN peripheral
+  HAL_CAN_Init(&hcan1);
+
+  // Configure CAN hardware receive filters
   CAN_filterConfig();
+
+  // Start the CAN module
+  HAL_CAN_Start(&hcan1);
 
 
   // Start listening for CAN traffic on interrupt
@@ -170,7 +170,7 @@ int main(void)
 		  convSums[i] += HAL_ADC_GetValue(&hadc1);
 
 		  // Remove for launch procedures!
-		  HAL_Delay(10);	// delay 10 ms to cut down the averaging rate
+		  HAL_Delay(1);	// delay 1 ms to cut down the averaging rate
 		  // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 	  }
   }
