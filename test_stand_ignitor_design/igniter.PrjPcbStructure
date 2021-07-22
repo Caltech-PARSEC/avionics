@@ -1,3 +1,3 @@
-Record=TopLevelDocument|FileName=micro_schematic.SchDoc
-Record=SheetSymbol|SourceDocument=micro_schematic.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=igniter.SchDoc|SymbolType=Normal|RawFileName=igniter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=micro_schematic.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=micro_schematic.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=micro_schematic.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=igniter.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=igniter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=micro_schematic.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

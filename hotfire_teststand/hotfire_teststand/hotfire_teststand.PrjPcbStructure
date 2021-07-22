@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=valveconn.SchDoc|SheetNumber=3
+Record=SheetSymbol|SourceDocument=valveconn.SchDoc|Designator=DRV1|SchDesignator=DRV1|FileName=valve.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=valve.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=valveconn.SchDoc|Designator=DRV2|SchDesignator=DRV2|FileName=valve.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=valve.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=valveconn.SchDoc|Designator=DRV3|SchDesignator=DRV3|FileName=valve.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=valve.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=valveconn.SchDoc|FileName=beaglebone.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=valveconn.SchDoc|FileName=ignition.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=valveconn.SchDoc|FileName=power.SchDoc|SheetNumber=2
